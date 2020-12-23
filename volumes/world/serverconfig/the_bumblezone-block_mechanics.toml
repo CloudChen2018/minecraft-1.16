@@ -1,0 +1,13 @@
+
+["General Mechanics Options"]
+	# 
+	#-----------------------------------------------------
+	#
+	# Should Dispensers always drop the Glass Bottle when using specific 
+	# bottle items on certain The Bumblezone blocks? 
+	# 
+	# Example: Using Honey Bottle to feed Honeycomb Brood Blocks will grow the larva and
+	# drop the Glass Bottle instead of putting it back into Dispenser if this is set to true.
+	#
+	dispensersDropGlassBottles = false
+
