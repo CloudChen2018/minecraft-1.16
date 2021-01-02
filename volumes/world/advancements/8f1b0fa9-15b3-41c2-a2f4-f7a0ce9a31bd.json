@@ -17,12 +17,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2020-12-25 00:48:39 +0800"
-    },
-    "done": true
-  },
   "roadstuff:recipes/roadstuff_group/white_bollard": {
     "criteria": {
       "has_stick": "2020-12-23 23:26:52 +0800"
@@ -32,18 +26,6 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2020-12-23 23:27:00 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2020-12-23 23:27:00 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2020-12-23 23:29:39 +0800"
     },
     "done": true
   },
@@ -62,12 +44,6 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/concrete": {
     "criteria": {
       "has_clay": "2020-12-25 00:31:35 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2020-12-28 00:24:26 +0800"
     },
     "done": true
   },
@@ -101,12 +77,6 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2020-12-25 01:09:31 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-23 23:29:39 +0800"
@@ -125,12 +95,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2020-12-25 00:48:39 +0800"
-    },
-    "done": true
-  },
   "wyrmroost:recipes/wyrmroost/gold_dragon_armor": {
     "criteria": {
       "has_gold": "2020-12-30 23:19:39 +0800"
@@ -143,39 +107,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
+  "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
-      "has_stick": "2020-12-23 23:26:52 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2020-12-30 23:19:39 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2020-12-25 00:28:14 +0800"
+      "has_white_wool": "2021-01-01 22:46:04 +0800"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-31 00:08:12 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2020-12-23 23:50:48 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2020-12-25 22:48:48 +0800"
     },
     "done": true
   },
@@ -197,39 +137,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget": {
-    "criteria": {
-      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2020-12-23 23:29:39 +0800"
     },
     "done": true
   },
-  "immersiveengineering:recipes/immersiveengineering/crafting/stick_iron": {
-    "criteria": {
-      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2020-12-30 23:19:39 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2020-12-23 23:29:39 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2020-12-25 22:48:48 +0800"
     },
     "done": true
   },
@@ -251,12 +167,6 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/decorations/crafting/torch": {
-    "criteria": {
-      "has_stick": "2020-12-23 23:26:52 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2020-12-23 23:27:37 +0800"
@@ -269,27 +179,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2020-12-31 00:13:55 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2020-12-25 00:48:39 +0800"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/immersiveengineering/crafting/coal_coke_to_coke": {
     "criteria": {
       "has_coal_coke": "2020-12-30 23:23:30 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_stained_glass": {
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
-      "has_glass": "2020-12-31 00:08:12 +0800"
+      "has_white_carpet": "2021-01-01 22:47:54 +0800"
     },
     "done": true
   },
@@ -299,21 +197,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2020-12-30 23:15:38 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2020-12-23 23:26:22 +0800"
-    },
-    "done": true
-  },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2020-12-23 23:58:03 +0800"
     },
     "done": true
   },
@@ -329,33 +215,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2020-12-24 00:06:15 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2020-12-25 00:48:39 +0800"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/tools/wooden_fillet_knife": {
-    "criteria": {
-      "has_items": "2020-12-23 23:26:52 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2020-12-24 00:02:04 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2020-12-23 23:29:35 +0800"
     },
     "done": true
   },
@@ -383,12 +245,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_brown_mushroom": "2020-12-25 01:11:35 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2020-12-30 23:19:54 +0800"
@@ -401,59 +257,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2020-12-23 23:28:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_reeds": "2020-12-24 00:08:36 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget": {
-    "criteria": {
-      "has_gold_ingot": "2020-12-30 23:19:39 +0800"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "has_grave_dust": "2020-12-23 23:58:03 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-12-24 00:01:30 +0800"
     },
     "done": true
   },
-  "easypaxelmod:golden_paxel": {
+  "roadstuff:recipes/roadstuff_group/orange_traffic_cone": {
     "criteria": {
-      "has_tools": "2020-12-30 23:19:39 +0800"
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
-      "apple": "2020-12-30 23:13:46 +0800",
-      "bread": "2020-12-25 00:28:36 +0800",
-      "carrot": "2020-12-24 00:32:01 +0800"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2020-12-23 23:26:52 +0800"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_key": {
-    "criteria": {
-      "has_ingredient": "2020-12-23 23:57:51 +0800"
+      "has_sandstone": "2021-01-01 20:57:10 +0800"
     },
     "done": true
   },
@@ -469,38 +287,21 @@
     },
     "done": true
   },
-  "immersiverailroading:recipes/immersiverailroading.main/item_conductor_whistle-177299132711": {
-    "criteria": {
-      "hasingotGold5": "2020-12-30 23:19:39 +0800",
-      "hasingotGold0": "2020-12-30 23:19:39 +0800",
-      "hasingotGold2": "2020-12-30 23:19:39 +0800",
-      "hasingotGold1": "2020-12-30 23:19:39 +0800",
-      "hasingotGold4": "2020-12-30 23:19:39 +0800",
-      "hasingotGold3": "2020-12-30 23:19:39 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-12-23 23:27:00 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bucket": {
+  "roadstuff:recipes/roadstuff_group/gray_traffic_cone": {
     "criteria": {
-      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+  "roadstuff:recipes/roadstuff_group/brown_traffic_bollard": {
     "criteria": {
-      "has_cobblestone": "2020-12-23 23:27:00 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2020-12-23 23:50:48 +0800"
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
     },
     "done": true
   },
@@ -516,24 +317,6 @@
     },
     "done": true
   },
-  "aquaculture:recipes/tools/gold_fillet_knife": {
-    "criteria": {
-      "has_items": "2020-12-30 23:19:39 +0800"
-    },
-    "done": true
-  },
-  "mapperbase:recipes/mapperbase_group/steel_ingot_from_blasting": {
-    "criteria": {
-      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
-    },
-    "done": true
-  },
-  "immersiverailroading:recipes/immersiverailroading.main/item_radio_control_card52037455611": {
-    "criteria": {
-      "hasingotIron4": "2020-12-24 00:01:30 +0800"
-    },
-    "done": true
-  },
   "mapperbase:recipes/mapperbase_group/bituminous_coal": {
     "criteria": {
       "has_coal": "2020-12-23 23:29:00 +0800"
@@ -546,27 +329,15 @@
     },
     "done": true
   },
-  "aquaculture:recipes/tools/diamond_fillet_knife": {
+  "roadstuff:recipes/roadstuff_group/cyan_traffic_cone": {
     "criteria": {
-      "has_items": "2020-12-25 00:48:39 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall": {
-    "criteria": {
-      "has_granite": "2020-12-23 23:28:29 +0800"
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
     },
     "done": true
   },
   "greekfantasy:root": {
     "criteria": {
       "inv_changed": "2020-12-23 23:23:44 +0800"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_grave": {
-    "criteria": {
-      "coded_trigger": "2020-12-23 23:57:49 +0800"
     },
     "done": true
   },
@@ -582,27 +353,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2020-12-31 00:13:55 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-23 23:29:39 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2020-12-23 23:29:39 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2020-12-31 00:08:37 +0800"
     },
     "done": true
   },
@@ -624,24 +377,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2020-12-25 00:28:14 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2020-12-28 00:17:58 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_sand": "2020-12-24 00:10:06 +0800"
-    },
-    "done": true
-  },
   "aquaculture:recipes/aquaculture/tackle_box": {
     "criteria": {
       "has_items": "2020-12-24 22:41:30 +0800"
@@ -654,39 +389,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2020-12-30 23:19:39 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-23 23:29:39 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
+  "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
-      "has_string": "2020-12-27 23:59:54 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2020-12-31 00:15:57 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2020-12-23 23:26:22 +0800"
+      "has_sandstone": "2021-01-01 20:57:10 +0800"
     },
     "done": true
   },
@@ -702,12 +413,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2020-12-23 23:29:39 +0800"
-    },
-    "done": true
-  },
   "roadstuff:recipes/roadstuff_group/yellow_small_bollard": {
     "criteria": {
       "has_stick": "2020-12-23 23:26:52 +0800"
@@ -719,19 +424,6 @@
       "has_stone": "2020-12-25 22:48:48 +0800"
     },
     "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2020-12-30 23:29:01 +0800"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:sheep": "2020-12-25 22:59:03 +0800",
-      "minecraft:cow": "2020-12-25 22:58:18 +0800"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -745,15 +437,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+  "roadstuff:recipes/roadstuff_group/orange_traffic_bollard": {
     "criteria": {
-      "has_diorite": "2020-12-23 23:50:48 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
-    "criteria": {
-      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
     },
     "done": true
   },
@@ -769,33 +455,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_chestplate": {
+  "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
-      "has_diamond": "2020-12-25 00:48:39 +0800"
+      "has_white_wool": "2021-01-01 22:46:04 +0800"
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "get_stone": "2020-12-23 23:27:00 +0800"
+      "iron_chestplate": "2021-01-01 22:38:22 +0800"
     },
     "done": true
   },
-  "immersiverailroading:recipes/immersiverailroading.main/item_track_exchanger118039556511": {
+  "roadstuff:recipes/roadstuff_group/blue_traffic_cone": {
     "criteria": {
-      "hasingotIron4": "2020-12-24 00:01:30 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2020-12-23 23:27:00 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/minecart": {
-    "criteria": {
-      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
     },
     "done": true
   },
@@ -817,21 +491,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2020-12-23 23:26:18 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2020-12-24 00:10:06 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2020-12-28 00:24:26 +0800"
     },
     "done": true
   },
@@ -844,18 +506,6 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-12-31 00:13:55 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_the_recipe": "2020-12-23 23:26:49 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_hoe": {
-    "criteria": {
-      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
     },
     "done": true
   },
@@ -877,24 +527,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2020-12-24 00:32:01 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2020-12-24 00:06:15 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/golden_apple": {
-    "criteria": {
-      "has_gold_ingot": "2020-12-30 23:19:39 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2020-12-23 23:26:22 +0800"
@@ -904,12 +536,6 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2020-12-31 00:08:37 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2020-12-23 23:28:29 +0800"
     },
     "done": true
   },
@@ -925,24 +551,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2020-12-23 23:29:39 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2020-12-28 00:24:26 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_shovel": {
-    "criteria": {
-      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2020-12-24 00:06:15 +0800"
@@ -952,12 +560,6 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2020-12-24 00:01:30 +0800"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/tools/diamond_fishing_rod": {
-    "criteria": {
-      "has_diamond": "2020-12-25 00:48:39 +0800"
     },
     "done": true
   },
@@ -973,21 +575,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-01 22:47:54 +0800"
+    },
+    "done": true
+  },
   "wyrmroost:recipes/wyrmroost/platinum_ingot_from_blasting": {
     "criteria": {
       "has_platinum_ore": "2020-12-28 00:22:32 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_stained_glass": {
-    "criteria": {
-      "has_glass": "2020-12-31 00:08:12 +0800"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/tools/stone_fillet_knife": {
-    "criteria": {
-      "has_items": "2020-12-23 23:27:00 +0800"
     },
     "done": true
   },
@@ -1009,24 +605,6 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/immersiveengineering/crafting/connector_hv": {
-    "criteria": {
-      "has_aluminum_ingot": "2020-12-24 00:01:30 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/immersiveengineering/crafting/component_iron": {
-    "criteria": {
-      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2020-12-25 01:11:35 +0800"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_iron_hammering": {
     "criteria": {
       "has_iron_ingot": "2020-12-24 00:01:30 +0800"
@@ -1039,9 +617,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/item_frame": {
+  "roadstuff:recipes/roadstuff_group/light_gray_traffic_bollard": {
     "criteria": {
-      "has_leather": "2020-12-28 00:17:58 +0800"
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
     },
     "done": true
   },
@@ -1051,37 +629,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2020-12-23 23:27:00 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2020-12-27 23:59:54 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2020-12-24 00:31:39 +0800"
-    },
-    "done": true
-  },
-  "greekfantasy:kill_shade": {
-    "criteria": {
-      "kill_shade": "2020-12-25 00:43:02 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2020-12-25 00:48:39 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2020-12-25 00:48:39 +0800"
     },
@@ -1097,24 +651,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2020-12-25 00:48:39 +0800"
-    },
-    "done": true
-  },
-  "mapperbase:recipes/mapperbase_group/steel_nugget_from_recycling": {
-    "criteria": {
-      "has_iron_nugget": "2020-12-27 22:53:46 +0800"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2020-12-25 01:09:31 +0800"
-    },
-    "done": true
-  },
   "roadstuff:recipes/roadstuff_group/yellow_bollard": {
     "criteria": {
       "has_stick": "2020-12-23 23:26:52 +0800"
@@ -1124,18 +660,6 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2020-12-30 23:09:49 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2020-12-23 23:28:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2020-12-24 00:31:39 +0800"
     },
     "done": true
   },
@@ -1157,15 +681,9 @@
     },
     "done": true
   },
-  "productivebees:recipes/decorations/advanced_oak_beehive": {
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
     "criteria": {
-      "has_beehive": "2020-12-27 23:55:57 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2020-12-31 00:13:55 +0800"
+      "has_white_carpet": "2021-01-01 22:47:54 +0800"
     },
     "done": true
   },
@@ -1184,18 +702,6 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2020-12-25 00:48:30 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2020-12-31 00:13:55 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum_from_blasting": {
-    "criteria": {
-      "has_ore_aluminum": "2020-12-23 23:49:06 +0800"
     },
     "done": true
   },
@@ -1223,18 +729,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glass_pane": {
-    "criteria": {
-      "has_glass": "2020-12-31 00:08:12 +0800"
-    },
-    "done": true
-  },
-  "easypaxelmod:stone_paxel": {
-    "criteria": {
-      "has_tools": "2020-12-23 23:27:00 +0800"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/immersiveengineering/crafting/insulating_glass": {
     "criteria": {
       "has_glass": "2020-12-31 00:08:12 +0800"
@@ -1247,27 +741,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2020-12-25 01:10:36 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2020-12-31 00:08:37 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_stained_glass": {
-    "criteria": {
-      "has_glass": "2020-12-31 00:08:12 +0800"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2020-12-23 23:58:03 +0800"
     },
     "done": true
   },
@@ -1277,33 +753,9 @@
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2020-12-25 00:48:39 +0800"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2020-12-23 23:27:37 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2020-12-31 00:15:57 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2020-12-23 23:28:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2020-12-25 00:48:39 +0800"
     },
     "done": true
   },
@@ -1316,12 +768,6 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-12-31 00:13:55 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2020-12-24 00:06:15 +0800"
     },
     "done": true
   },
@@ -1361,9 +807,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
     "criteria": {
-      "has_gravel": "2020-12-23 23:29:39 +0800"
+      "has_white_carpet": "2021-01-01 22:47:54 +0800"
     },
     "done": true
   },
@@ -1373,21 +819,9 @@
     },
     "done": true
   },
-  "wyrmroost:recipes/wyrmroost/iron_dragon_armor": {
+  "roadstuff:recipes/roadstuff_group/light_blue_traffic_cone": {
     "criteria": {
-      "has_iron": "2020-12-24 00:01:30 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_boots": {
-    "criteria": {
-      "has_gold_ingot": "2020-12-30 23:19:39 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2020-12-30 23:29:01 +0800"
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
     },
     "done": true
   },
@@ -1403,12 +837,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2020-12-23 23:26:52 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2020-12-23 23:28:29 +0800"
@@ -1421,27 +849,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/immersiveengineering/crafting/radiator": {
+  "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
-      "has_water_bucket": "2020-12-24 00:43:30 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2020-12-24 00:08:36 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2020-12-31 00:08:37 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2020-12-25 22:48:48 +0800"
+      "has_white_wool": "2021-01-01 22:46:04 +0800"
     },
     "done": true
   },
@@ -1454,24 +864,6 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2020-12-30 23:19:39 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/loom": {
-    "criteria": {
-      "has_string": "2020-12-27 23:59:54 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_copper": {
-    "criteria": {
-      "has_ore_copper": "2020-12-23 23:50:08 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_axe": {
-    "criteria": {
-      "has_diamond": "2020-12-25 00:48:39 +0800"
     },
     "done": true
   },
@@ -1493,6 +885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2021-01-01 23:08:00 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2020-12-31 00:08:37 +0800"
@@ -1511,9 +909,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_stained_glass": {
+  "roadstuff:recipes/roadstuff_group/white_traffic_barrel": {
     "criteria": {
-      "has_glass": "2020-12-31 00:08:12 +0800"
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
     },
     "done": true
   },
@@ -1523,39 +921,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/immersiveengineering/crafting/coke_to_coal_coke": {
-    "criteria": {
-      "has_coke": "2020-12-30 23:23:30 +0800"
-    },
-    "done": true
-  },
   "roadstuff:recipes/roadstuff_group/paint_bucket": {
     "criteria": {
       "has_iron_ingot": "2020-12-24 00:01:30 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2020-12-23 23:29:35 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2020-12-25 22:48:48 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2020-12-28 00:24:26 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2020-12-23 23:29:00 +0800"
     },
     "done": true
   },
@@ -1583,15 +951,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+  "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
-      "has_gold_ingot": "2020-12-30 23:19:39 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_chestplate": "2020-12-25 23:44:27 +0800"
+      "has_white_wool": "2021-01-01 22:46:04 +0800"
     },
     "done": true
   },
@@ -1601,21 +963,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2020-12-23 23:27:00 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2020-12-23 23:26:18 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2020-12-23 23:29:39 +0800"
     },
     "done": true
   },
@@ -1625,33 +975,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
+  "roadstuff:recipes/roadstuff_group/purple_traffic_barrel": {
     "criteria": {
-      "has_diorite": "2020-12-23 23:50:48 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_core": "2020-12-30 23:20:04 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_stained_glass": {
-    "criteria": {
-      "has_glass": "2020-12-31 00:08:12 +0800"
-    },
-    "done": true
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2020-12-23 23:23:44 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2020-12-23 23:28:29 +0800"
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
     },
     "done": true
   },
@@ -1667,15 +993,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite": {
+  "roadstuff:recipes/roadstuff_group/pink_traffic_barrel": {
     "criteria": {
-      "has_stone": "2020-12-23 23:50:48 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2020-12-30 23:19:39 +0800"
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
     },
     "done": true
   },
@@ -1685,9 +1005,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
-      "has_planks": "2020-12-23 23:26:22 +0800"
+      "has_black_flower": "2021-01-01 23:08:39 +0800"
     },
     "done": true
   },
@@ -1703,15 +1023,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2020-12-31 00:13:55 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2020-12-30 23:09:49 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/green_traffic_bollard": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
     },
     "done": true
   },
@@ -1721,15 +1041,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
-      "has_log": "2020-12-23 23:26:18 +0800"
+      "has_sandstone": "2021-01-01 20:57:10 +0800"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
-      "crafting_table": "2020-12-23 23:26:25 +0800"
+      "has_white_carpet": "2021-01-01 22:47:54 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/brown_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
     },
     "done": true
   },
@@ -1748,6 +1074,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2020-12-24 00:01:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2021-01-01 22:46:04 +0800"
     },
     "done": true
   },
@@ -1775,6 +1107,12 @@
     },
     "done": true
   },
+  "roadstuff:recipes/roadstuff_group/white_traffic_cone": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-23 23:29:39 +0800"
@@ -1793,33 +1131,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2020-12-28 00:17:58 +0800"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2020-12-24 00:31:41 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
-    "criteria": {
-      "has_planks": "2020-12-23 23:26:22 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2020-12-30 23:19:39 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot": {
-    "criteria": {
-      "has_iron_ore": "2020-12-23 23:48:31 +0800"
     },
     "done": true
   },
@@ -1844,12 +1164,6 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-12-23 23:27:00 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_stone": "2020-12-28 00:24:26 +0800"
     },
     "done": true
   },
@@ -1879,27 +1193,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/iron_door": {
+  "roadstuff:recipes/roadstuff_group/gray_traffic_bollard": {
     "criteria": {
-      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum": {
-    "criteria": {
-      "has_ore_aluminum": "2020-12-23 23:49:06 +0800"
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
     },
     "done": true
   },
   "mapperbase:recipes/mapperbase_group/steel_nugget_from_blasting": {
     "criteria": {
       "has_iron_nugget": "2020-12-27 22:53:46 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2020-12-30 23:55:45 +0800"
     },
     "done": true
   },
@@ -1939,18 +1241,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2020-12-27 22:53:46 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2020-12-23 23:26:22 +0800"
-    },
-    "done": true
-  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2020-12-24 00:43:51 +0800"
@@ -1969,6 +1259,12 @@
     },
     "done": true
   },
+  "roadstuff:recipes/roadstuff_group/red_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2020-12-28 00:17:58 +0800"
@@ -1981,39 +1277,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2020-12-24 00:06:15 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-12-23 23:27:00 +0800"
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2020-12-25 23:47:12 +0800"
-    },
-    "done": true
-  },
   "roadstuff:recipes/roadstuff_group/red_small_bollard": {
     "criteria": {
       "has_stick": "2020-12-23 23:26:52 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2020-12-25 22:48:48 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
-    "criteria": {
-      "has_leather": "2020-12-28 00:17:58 +0800"
     },
     "done": true
   },
@@ -2029,12 +1301,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
-    "criteria": {
-      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2020-12-25 00:43:08 +0800"
@@ -2044,6 +1310,1429 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2020-12-25 00:48:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2020-12-24 22:41:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2020-12-31 00:15:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-12-31 00:13:55 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_iron": {
+    "criteria": {
+      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2020-12-25 01:09:31 +0800",
+      "minecraft:warped_forest": "2020-12-25 01:12:59 +0800"
+    },
+    "done": false
+  },
+  "easypaxelmod:iron_paxel": {
+    "criteria": {
+      "has_tools": "2020-12-24 00:01:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2021-01-01 20:57:10 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/light_blue_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2020-12-25 23:44:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2020-12-23 23:50:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2020-12-28 00:24:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-12-31 00:13:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2021-01-01 22:46:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2020-12-28 00:24:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2020-12-24 00:02:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2021-01-01 22:46:04 +0800"
+    },
+    "done": true
+  },
+  "immersiverailroading:recipes/immersiverailroading.main/item_golden_spike-59282516911": {
+    "criteria": {
+      "hasingotGold0": "2020-12-30 23:19:39 +0800",
+      "hasingotGold2": "2020-12-30 23:19:39 +0800",
+      "hasingotGold1": "2020-12-30 23:19:39 +0800",
+      "hasingotGold4": "2020-12-30 23:19:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2020-12-23 23:27:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2020-12-25 00:53:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2020-12-31 00:15:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2021-01-01 22:46:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2020-12-25 00:48:39 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/cyan_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-12-23 23:27:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-12-23 23:29:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2020-12-28 00:24:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2021-01-01 22:46:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-01-01 20:57:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-12-25 01:09:31 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/white_traffic_bollard": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2020-12-25 00:48:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2020-12-23 23:26:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-30 23:19:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-12-25 00:28:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-12-23 23:50:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2020-12-25 22:48:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/stick_iron": {
+    "criteria": {
+      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-12-23 23:29:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-12-25 22:48:48 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/purple_traffic_cone": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/lime_traffic_cone": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/decorations/crafting/torch": {
+    "criteria": {
+      "has_stick": "2020-12-23 23:26:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-12-31 00:13:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2020-12-25 00:48:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-01 22:47:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-12-31 00:08:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2021-01-01 22:46:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2020-12-30 23:15:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-01 22:47:54 +0800"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2020-12-23 23:58:03 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/pink_traffic_bollard": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-12-24 00:06:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2020-12-25 00:48:39 +0800"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/wooden_fillet_knife": {
+    "criteria": {
+      "has_items": "2020-12-23 23:26:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2020-12-23 23:29:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2021-01-01 20:58:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2020-12-25 01:11:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2021-01-01 22:46:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2020-12-23 23:28:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2020-12-24 00:08:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-30 23:19:39 +0800"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "has_grave_dust": "2020-12-23 23:58:03 +0800"
+    },
+    "done": true
+  },
+  "easypaxelmod:golden_paxel": {
+    "criteria": {
+      "has_tools": "2020-12-30 23:19:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2021-01-01 21:32:53 +0800",
+      "apple": "2020-12-30 23:13:46 +0800",
+      "bread": "2020-12-25 00:28:36 +0800",
+      "carrot": "2020-12-24 00:32:01 +0800"
+    },
+    "done": false
+  },
+  "roadstuff:recipes/roadstuff_group/blue_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2020-12-23 23:26:52 +0800"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2020-12-23 23:57:51 +0800"
+    },
+    "done": true
+  },
+  "immersiverailroading:recipes/immersiverailroading.main/item_conductor_whistle-177299132711": {
+    "criteria": {
+      "hasingotGold5": "2020-12-30 23:19:39 +0800",
+      "hasingotGold0": "2020-12-30 23:19:39 +0800",
+      "hasingotGold2": "2020-12-30 23:19:39 +0800",
+      "hasingotGold1": "2020-12-30 23:19:39 +0800",
+      "hasingotGold4": "2020-12-30 23:19:39 +0800",
+      "hasingotGold3": "2020-12-30 23:19:39 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/magenta_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2020-12-23 23:27:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2020-12-23 23:50:48 +0800"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2020-12-30 23:19:39 +0800"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-01-01 20:57:10 +0800"
+    },
+    "done": true
+  },
+  "immersiverailroading:recipes/immersiverailroading.main/item_radio_control_card52037455611": {
+    "criteria": {
+      "hasingotIron4": "2020-12-24 00:01:30 +0800"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2020-12-25 00:48:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2020-12-23 23:28:29 +0800"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2020-12-23 23:57:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2021-01-01 22:46:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-12-31 00:13:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-12-23 23:29:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-12-31 00:08:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2020-12-25 00:28:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2020-12-28 00:17:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2020-12-24 00:10:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-30 23:19:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2020-12-27 23:59:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2020-12-31 00:15:57 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/black_traffic_cone": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-12-23 23:26:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2021-01-01 20:57:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-12-23 23:29:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2021-01-01 20:57:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2020-12-30 23:29:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2020-12-25 22:59:03 +0800",
+      "minecraft:cow": "2020-12-25 22:58:18 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-12-23 23:50:48 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
+    "criteria": {
+      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/green_traffic_cone": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2020-12-25 00:48:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2020-12-23 23:27:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-01 22:47:54 +0800"
+    },
+    "done": true
+  },
+  "immersiverailroading:recipes/immersiverailroading.main/item_track_exchanger118039556511": {
+    "criteria": {
+      "hasingotIron4": "2020-12-24 00:01:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2020-12-23 23:27:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2020-12-23 23:26:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2020-12-28 00:24:26 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/light_gray_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2021-01-01 22:46:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_the_recipe": "2020-12-23 23:26:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-12-24 00:32:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-12-24 00:06:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-30 23:19:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2020-12-23 23:28:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-12-23 23:29:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2020-12-28 00:24:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fishing_rod": {
+    "criteria": {
+      "has_diamond": "2020-12-25 00:48:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-12-31 00:08:12 +0800"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/stone_fillet_knife": {
+    "criteria": {
+      "has_items": "2020-12-23 23:27:00 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/connector_hv": {
+    "criteria": {
+      "has_aluminum_ingot": "2020-12-24 00:01:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/component_iron": {
+    "criteria": {
+      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2020-12-25 01:11:35 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/yellow_traffic_cone": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/red_traffic_cone": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2020-12-28 00:17:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2020-12-23 23:27:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2020-12-24 00:31:39 +0800"
+    },
+    "done": true
+  },
+  "greekfantasy:kill_shade": {
+    "criteria": {
+      "kill_shade": "2020-12-25 00:43:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2020-12-25 00:48:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2020-12-25 00:48:39 +0800"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_nugget_from_recycling": {
+    "criteria": {
+      "has_iron_nugget": "2020-12-27 22:53:46 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/yellow_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-12-25 01:09:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2021-01-01 22:24:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2020-12-23 23:28:29 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/purple_traffic_bollard": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2020-12-24 00:31:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2021-01-01 22:46:04 +0800"
+    },
+    "done": true
+  },
+  "productivebees:recipes/decorations/advanced_oak_beehive": {
+    "criteria": {
+      "has_beehive": "2020-12-27 23:55:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-12-31 00:13:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-01 22:47:54 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/paint_brush": {
+    "criteria": {
+      "has_wool": "2021-01-01 22:46:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-12-31 00:13:55 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum_from_blasting": {
+    "criteria": {
+      "has_ore_aluminum": "2020-12-23 23:49:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2020-12-31 00:08:12 +0800"
+    },
+    "done": true
+  },
+  "easypaxelmod:stone_paxel": {
+    "criteria": {
+      "has_tools": "2020-12-23 23:27:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-12-25 01:10:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-12-31 00:08:12 +0800"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2020-12-23 23:58:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2020-12-25 00:48:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2020-12-23 23:27:37 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/magenta_traffic_cone": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2020-12-23 23:28:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2020-12-25 00:48:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-01 22:47:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-12-24 00:06:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-01-01 20:57:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-12-23 23:29:39 +0800"
+    },
+    "done": true
+  },
+  "wyrmroost:recipes/wyrmroost/iron_dragon_armor": {
+    "criteria": {
+      "has_iron": "2020-12-24 00:01:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-30 23:19:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2020-12-30 23:29:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2020-12-23 23:26:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2021-01-01 22:46:04 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2020-12-24 00:43:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2020-12-24 00:08:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-12-31 00:08:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-12-25 22:48:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2020-12-27 23:59:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2021-01-01 22:46:04 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_copper": {
+    "criteria": {
+      "has_ore_copper": "2020-12-23 23:50:08 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/black_traffic_bollard": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2020-12-25 00:48:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2021-01-01 22:46:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2021-01-01 22:46:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-12-31 00:08:12 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/coke_to_coal_coke": {
+    "criteria": {
+      "has_coke": "2020-12-30 23:23:30 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/gray_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_the_recipe": "2021-01-01 20:58:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2020-12-23 23:29:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2020-12-25 22:48:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2020-12-28 00:24:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2020-12-23 23:29:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-30 23:19:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2020-12-25 23:44:27 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/light_blue_traffic_bollard": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2020-12-23 23:27:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-12-23 23:29:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2020-12-23 23:50:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2020-12-30 23:20:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-12-31 00:08:12 +0800"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2020-12-23 23:23:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2020-12-23 23:28:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2020-12-23 23:50:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-30 23:19:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-01-01 20:57:10 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/lime_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-12-23 23:26:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-01 22:47:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-12-31 00:13:55 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/green_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2021-01-01 20:57:10 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/black_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/light_gray_traffic_cone": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2020-12-23 23:26:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2020-12-23 23:26:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-01-01 20:57:10 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/orange_traffic_barrel": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/cyan_traffic_bollard": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2020-12-28 00:17:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2020-12-23 23:26:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2020-12-23 23:48:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-01 22:47:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2020-12-28 00:24:26 +0800"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/asphalt4": {
+    "criteria": {
+      "has_raw_bitumen": "2021-01-01 20:46:18 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/magenta_traffic_bollard": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/asphalt2": {
+    "criteria": {
+      "has_raw_bitumen": "2021-01-01 20:46:18 +0800"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/asphalt3": {
+    "criteria": {
+      "has_raw_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/asphalt1": {
+    "criteria": {
+      "has_raw_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum": {
+    "criteria": {
+      "has_ore_aluminum": "2020-12-23 23:49:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-12-30 23:55:45 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/red_traffic_bollard": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "roadstuff:recipes/roadstuff_group/blue_traffic_bollard": {
+    "criteria": {
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-12-27 22:53:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2020-12-23 23:26:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-12-24 00:06:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-12-25 23:47:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-12-25 22:48:48 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
+    "criteria": {
+      "has_leather": "2020-12-28 00:17:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
     },
     "done": true
   },
@@ -2077,15 +2766,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+  "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
-      "has_kelp": "2020-12-24 22:41:30 +0800"
+      "has_white_wool": "2021-01-01 22:46:04 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+  "roadstuff:recipes/roadstuff_group/lime_traffic_bollard": {
     "criteria": {
-      "has_white_dye": "2020-12-31 00:15:57 +0800"
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
     },
     "done": true
   },
@@ -2107,15 +2796,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+  "roadstuff:recipes/roadstuff_group/yellow_traffic_bollard": {
     "criteria": {
-      "has_glass_pane": "2020-12-31 00:13:55 +0800"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_iron": {
-    "criteria": {
-      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
+      "has_bitumen": "2021-01-01 20:46:18 +0800"
     },
     "done": true
   },
@@ -2125,28 +2808,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lantern": {
-    "criteria": {
-      "has_iron_ingot": "2020-12-24 00:01:30 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2020-12-25 22:48:48 +0800"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2020-12-25 01:09:31 +0800",
-      "minecraft:warped_forest": "2020-12-25 01:12:59 +0800"
-    },
-    "done": false
-  },
-  "easypaxelmod:iron_paxel": {
-    "criteria": {
-      "has_tools": "2020-12-24 00:01:30 +0800"
     },
     "done": true
   },
@@ -2162,9 +2826,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+  "roadstuff:recipes/roadstuff_group/pink_traffic_cone": {
     "criteria": {
-      "has_golden_chestplate": "2020-12-25 23:44:27 +0800"
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-01 22:47:54 +0800"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/bitumen_block": {
+    "criteria": {
+      "has_raw_bitumen": "2021-01-01 20:46:17 +0800"
     },
     "done": true
   },
@@ -2174,33 +2850,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite": {
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
-      "has_stone": "2020-12-23 23:50:48 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall": {
-    "criteria": {
-      "has_andesite": "2020-12-28 00:24:26 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2020-12-31 00:13:55 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab": {
-    "criteria": {
-      "has_andesite": "2020-12-28 00:24:26 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_red_flower": "2020-12-24 00:02:04 +0800"
+      "has_white_carpet": "2021-01-01 22:47:54 +0800"
     },
     "done": true
   },
@@ -2210,36 +2862,21 @@
     },
     "done": true
   },
-  "immersiverailroading:recipes/immersiverailroading.main/item_golden_spike-59282516911": {
-    "criteria": {
-      "hasingotGold0": "2020-12-30 23:19:39 +0800",
-      "hasingotGold2": "2020-12-30 23:19:39 +0800",
-      "hasingotGold1": "2020-12-30 23:19:39 +0800",
-      "hasingotGold4": "2020-12-30 23:19:39 +0800"
-    },
-    "done": true
-  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2020-12-24 00:01:30 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_axe": {
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
-      "has_cobblestone": "2020-12-23 23:27:00 +0800"
+      "has_white_carpet": "2021-01-01 22:47:54 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+  "roadstuff:recipes/roadstuff_group/brown_traffic_cone": {
     "criteria": {
-      "has_white_flower": "2020-12-25 00:53:31 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
-    "criteria": {
-      "has_white_dye": "2020-12-31 00:15:57 +0800"
+      "has_bitumen": "2021-01-01 20:46:17 +0800"
     },
     "done": true
   },
