@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2021-01-12 00:40:32 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/concrete": {
     "criteria": {
       "has_clay": "2020-12-25 00:31:35 +0800"
@@ -308,6 +314,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2021-01-01 22:38:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2021-01-12 00:40:32 +0800"
     },
     "done": true
   },
@@ -969,6 +981,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2021-01-11 23:40:58 +0800",
       "minecraft:nether_wastes": "2020-12-25 01:09:31 +0800",
+      "minecraft:soul_sand_valley": "2021-01-12 00:42:16 +0800",
       "minecraft:warped_forest": "2020-12-25 01:12:59 +0800"
     },
     "done": false
@@ -2040,6 +2053,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-01-12 21:13:29 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_fence": {
     "criteria": {
       "has_steel_ingot": "2021-01-07 22:34:46 +0800"
@@ -2466,6 +2485,12 @@
     },
     "done": true
   },
+  "productivebees:recipes/decorations/obsidian_nest": {
+    "criteria": {
+      "has_item": "2021-01-12 21:13:29 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/orange_traffic_cone": {
     "criteria": {
       "has_bitumen": "2021-01-01 20:46:18 +0800"
@@ -2757,6 +2782,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2020-12-24 00:31:41 +0800",
+      "minecraft:hoglin": "2021-01-12 20:21:52 +0800",
       "minecraft:spider": "2020-12-25 23:04:04 +0800",
       "minecraft:phantom": "2020-12-27 23:43:01 +0800",
       "minecraft:enderman": "2021-01-07 02:11:44 +0800",
@@ -3577,6 +3603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2021-01-12 19:55:03 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2020-12-31 00:15:57 +0800"
@@ -3739,6 +3771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2021-01-12 00:40:32 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2020-12-25 01:11:35 +0800"
@@ -3867,6 +3905,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2021-01-12 00:40:32 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2021-01-12 21:48:24 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-23 23:29:39 +0800"
@@ -3936,6 +3986,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2020-12-24 00:06:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2021-01-12 21:13:29 +0800"
     },
     "done": true
   },
@@ -4419,6 +4475,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2021-01-12 00:40:32 +0800"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/asphalt4": {
     "criteria": {
       "has_raw_bitumen": "2021-01-01 20:46:18 +0800"
@@ -4554,6 +4616,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2020-12-24 22:11:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2021-01-12 00:40:32 +0800"
     },
     "done": true
   },
