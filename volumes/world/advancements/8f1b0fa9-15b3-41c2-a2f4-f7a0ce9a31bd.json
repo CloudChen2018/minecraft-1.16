@@ -3707,6 +3707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2021-01-14 20:43:54 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_steel_hammering": {
     "criteria": {
       "has_steel_ingot": "2021-01-07 22:34:46 +0800"
