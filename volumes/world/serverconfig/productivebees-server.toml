@@ -3,17 +3,9 @@
 	#How many ticks it takes for process a recipe in the centrifuge. Default 300.
 	#Range: > 20
 	centrifugeProcessingTime = 300
-	#[UNUSED] Use items to change the type of a bee.
-	#If false, productive bees can only be obtained through breeding. Default false.
-	enableItemConverting = false
-	#Deprecated: Moved to spawning recipe.
-	#Range: > 20
-	nestRepopulationCooldown = 3600
 	#How much FE to use per tick for a powered centrifuge when processing an item. Default 10.
 	#Range: > 1
 	centrifugePowerUse = 10
-	#[DEPRECATED] Bees will create combs instead of raw resource. Combs will need to be processed in a centrifuge. Default true.
-	enableCombProduce = true
 	#How often should a bee attempt to generate items while in the hive. Default 500.
 	#Range: > 20
 	itemTickRate = 1500
