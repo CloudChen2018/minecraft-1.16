@@ -917,6 +917,12 @@
     },
     "done": true
   },
+  "productivebees:husbandry/advanced_beehive": {
+    "criteria": {
+      "get_hive": "2021-01-21 21:30:07 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/gray_traffic_bollard": {
     "criteria": {
       "has_bitumen": "2021-01-01 20:46:18 +0800"
@@ -1822,6 +1828,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-03 01:36:03 +0800"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/advanced_beehive/expansion_box": {
+    "criteria": {
+      "get_box": "2021-01-21 21:34:40 +0800"
     },
     "done": true
   },

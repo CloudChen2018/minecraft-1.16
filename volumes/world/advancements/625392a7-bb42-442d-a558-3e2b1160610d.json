@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-01-21 17:43:34 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2021-01-03 13:23:10 +0800"
@@ -146,6 +152,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/coal_coke_to_coke": {
     "criteria": {
       "has_coal_coke": "2020-12-27 23:00:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-21 17:05:04 +0800"
     },
     "done": true
   },
@@ -521,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-21 17:05:04 +0800"
+    },
+    "done": true
+  },
   "greekfantasy:effect_petrified": {
     "criteria": {
       "petrified_effect": "2020-12-23 23:46:20 +0800"
@@ -542,6 +560,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-12-24 22:50:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-01-21 17:43:34 +0800"
     },
     "done": true
   },
@@ -590,6 +614,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2020-12-24 23:08:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-21 17:05:04 +0800"
     },
     "done": true
   },
@@ -728,6 +758,12 @@
   "wyrmroost:recipes/wyrmroost/platinum_pickaxe": {
     "criteria": {
       "has_material": "2021-01-02 18:04:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone": "2021-01-21 17:43:26 +0800"
     },
     "done": true
   },
@@ -1356,6 +1392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2021-01-21 17:43:26 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/watermill": {
     "criteria": {
       "has_waterwheel_segment": "2020-12-25 22:58:24 +0800"
@@ -1509,6 +1551,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2020-12-24 00:29:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-21 17:05:04 +0800"
     },
     "done": true
   },
@@ -2013,6 +2061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2021-01-21 17:43:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-03 13:23:22 +0800"
@@ -2145,6 +2199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-21 17:05:04 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/paint_brush": {
     "criteria": {
       "has_wool": "2021-01-03 13:23:10 +0800"
@@ -2202,6 +2262,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2020-12-24 00:29:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-21 17:05:04 +0800"
     },
     "done": true
   },
@@ -2445,6 +2511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-21 17:05:04 +0800"
+    },
+    "done": true
+  },
   "wyrmroost:recipes/wyrmroost/platinum_sword": {
     "criteria": {
       "has_material": "2021-01-02 18:04:30 +0800"
@@ -2496,6 +2568,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2021-01-07 00:32:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2021-01-21 17:43:26 +0800"
     },
     "done": true
   },
@@ -2595,6 +2673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2021-01-21 17:43:26 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_iron_from_slab": {
     "criteria": {
       "has_sheetmetal_iron": "2020-12-29 00:09:50 +0800"
@@ -2652,6 +2736,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_the_recipe": "2021-01-03 00:33:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2021-01-21 17:43:26 +0800"
     },
     "done": true
   },
@@ -2757,6 +2847,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-21 17:05:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-01-21 17:43:34 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2020-12-23 23:26:51 +0800"
@@ -2766,6 +2868,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2020-12-24 00:15:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-21 17:05:04 +0800"
     },
     "done": true
   },
@@ -2823,6 +2931,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2021-01-21 17:43:26 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/buzzsaw": {
     "criteria": {
       "has_component_steel": "2021-01-03 15:17:35 +0800"
@@ -2862,6 +2976,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-01-04 22:10:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_blackstone_bricks": "2021-01-21 17:43:34 +0800"
     },
     "done": true
   },
@@ -3021,9 +3141,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-01-21 17:43:34 +0800"
+    },
+    "done": true
+  },
   "wyrmroost:recipes/wyrmroost/red_geode_sword": {
     "criteria": {
       "has_material": "2020-12-25 22:29:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2021-01-21 17:43:26 +0800"
     },
     "done": true
   },
@@ -3120,6 +3252,12 @@
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2020-12-28 00:46:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2021-01-21 17:43:26 +0800"
     },
     "done": true
   },
@@ -3588,6 +3726,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2021-01-21 17:43:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2020-12-23 23:27:05 +0800"
@@ -3621,6 +3765,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_hv_relay": {
     "criteria": {
       "has_aluminum_ingot": "2020-12-24 00:15:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-21 17:05:04 +0800"
     },
     "done": true
   },
@@ -3714,6 +3864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2021-01-21 17:43:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2021-01-03 12:54:49 +0800"
@@ -3777,6 +3933,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2021-01-08 22:27:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-01-21 17:43:34 +0800"
     },
     "done": true
   },
@@ -3981,6 +4143,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-12-25 22:45:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-21 17:05:04 +0800"
     },
     "done": true
   },
@@ -4236,6 +4404,12 @@
   "productivebees:recipes/decorations/centrifuge": {
     "criteria": {
       "has_item": "2021-01-03 21:57:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2021-01-21 17:43:26 +0800"
     },
     "done": true
   },
@@ -4623,6 +4797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-21 17:05:04 +0800"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2020-12-25 01:16:58 +0800"
@@ -4868,6 +5048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-21 17:05:04 +0800"
+    },
+    "done": true
+  },
   "immersiverailroading:recipes/immersiverailroading.main/item_track_exchanger118039556511": {
     "criteria": {
       "hasingotIron4": "2020-12-24 00:15:59 +0800"
@@ -5108,6 +5294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-01-21 17:43:34 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-12-23 23:16:11 +0800"
@@ -5243,6 +5435,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2021-01-06 22:55:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2021-01-21 17:43:26 +0800"
     },
     "done": true
   },
@@ -5678,6 +5876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2021-01-21 17:43:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-12-24 00:15:59 +0800"
@@ -5813,6 +6017,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-01-21 17:05:04 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2020-12-28 22:46:12 +0800"
@@ -5828,6 +6038,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_copper_to_slab": {
     "criteria": {
       "has_storage_copper": "2021-01-07 20:15:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2021-01-21 17:43:26 +0800"
     },
     "done": true
   },
