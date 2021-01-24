@@ -665,6 +665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2021-01-24 23:45:29 +0800"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/concrete_2": {
     "criteria": {
       "has_gravel": "2020-12-24 00:20:30 +0800"
@@ -698,6 +704,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2021-01-03 12:54:49 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_droppercovered": {
+    "criteria": {
+      "has_vertical_conveyor": "2021-01-24 23:57:09 +0800"
     },
     "done": true
   },
@@ -1377,6 +1389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2021-01-24 17:56:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_chestplate": "2020-12-25 23:43:02 +0800"
@@ -1545,6 +1563,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2020-12-25 01:07:34 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2021-01-24 17:31:27 +0800"
     },
     "done": true
   },
@@ -2253,6 +2277,12 @@
     },
     "done": true
   },
+  "mapperbase:recipes/mapperbase_group/steel_rod_from_blasting": {
+    "criteria": {
+      "has_iron_rod": "2021-01-24 23:51:53 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_components": {
     "criteria": {
       "has_paper": "2020-12-28 22:46:52 +0800"
@@ -2373,6 +2403,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_extractcovered": {
+    "criteria": {
+      "has_the_recipe": "2021-01-24 23:52:52 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_gray": {
     "criteria": {
       "has_sheetmetal": "2020-12-29 00:09:50 +0800"
@@ -2424,6 +2460,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-12-24 22:50:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2021-01-24 23:45:29 +0800"
     },
     "done": true
   },
@@ -2538,6 +2580,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-24 00:20:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_verticalcovered": {
+    "criteria": {
+      "has_vertical_conveyor": "2021-01-24 23:51:02 +0800"
     },
     "done": true
   },
@@ -2895,6 +2943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2021-01-24 23:45:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-12-24 00:04:32 +0800"
@@ -2952,6 +3006,12 @@
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "sword": "2021-01-23 01:38:13 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_steel_to_nugget_steel": {
+    "criteria": {
+      "has_ingot_steel": "2021-01-24 18:39:30 +0800"
     },
     "done": true
   },
@@ -3114,6 +3174,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2020-12-26 00:08:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2021-01-24 23:45:29 +0800"
     },
     "done": true
   },
@@ -3627,6 +3693,12 @@
     },
     "done": true
   },
+  "productivebees:recipes/decorations/nether_brick_nest": {
+    "criteria": {
+      "has_item": "2021-01-24 23:45:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2020-12-24 00:05:37 +0800"
@@ -3906,6 +3978,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2021-01-24 23:45:29 +0800"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/steel_ingot_from_block": {
     "criteria": {
       "has_steel_block": "2021-01-23 18:02:17 +0800"
@@ -4071,6 +4149,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-01-04 22:10:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2021-01-24 23:45:29 +0800"
     },
     "done": true
   },
@@ -4410,6 +4494,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2021-01-24 23:45:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2021-01-24 23:45:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2020-12-24 00:16:25 +0800"
@@ -4659,6 +4755,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/place_conveyor": {
+    "criteria": {
+      "extractcovered": "2021-01-24 23:53:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2020-12-25 21:58:44 +0800"
@@ -4806,6 +4908,12 @@
   "wyrmroost:recipes/wyrmroost/platinum_block": {
     "criteria": {
       "has_platinum": "2021-01-02 18:04:30 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2021-01-24 17:32:23 +0800"
     },
     "done": true
   },
@@ -4977,6 +5085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2021-01-24 23:45:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-03 13:23:22 +0800"
@@ -5069,6 +5183,7 @@
       "apple": "2020-12-23 23:31:03 +0800",
       "potato": "2020-12-28 22:59:48 +0800",
       "bread": "2020-12-25 01:03:41 +0800",
+      "beetroot": "2021-01-24 21:23:43 +0800",
       "cooked_salmon": "2021-01-03 10:50:04 +0800"
     },
     "done": false
@@ -5162,6 +5277,12 @@
     },
     "done": true
   },
+  "mapperbase:recipes/mapperbase_group/steel_ingot": {
+    "criteria": {
+      "has_steel_nugget": "2021-01-24 18:38:21 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-01-04 22:10:29 +0800"
@@ -5171,6 +5292,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-01-07 00:32:25 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/earmuffs": {
+    "criteria": {
+      "has_iron_rod": "2021-01-24 23:51:53 +0800"
     },
     "done": true
   },
@@ -5309,6 +5436,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2020-12-23 23:16:11 +0800"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/bolt": {
+    "criteria": {
+      "has_steel_nugget": "2021-01-24 18:38:21 +0800"
     },
     "done": true
   },
@@ -5582,6 +5715,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/immersivepetroleum/upgrade_rudders": {
+    "criteria": {
+      "has_iron_rod": "2021-01-24 23:51:53 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2021-01-03 13:23:10 +0800"
@@ -5651,6 +5790,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bannerpatterns": {
     "criteria": {
       "has_paper": "2020-12-28 22:46:52 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/nugget_steel_to_ingot_steel": {
+    "criteria": {
+      "has_nugget_steel": "2021-01-24 18:39:30 +0800"
     },
     "done": true
   },
@@ -5936,6 +6081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2021-01-25 00:24:01 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2020-12-23 23:27:05 +0800"
@@ -6047,6 +6198,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/waterwheel_segment": {
     "criteria": {
       "has_the_recipe": "2020-12-25 22:58:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2021-01-24 23:45:29 +0800"
     },
     "done": true
   },
