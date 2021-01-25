@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_tile_slab_from_concrete_tile_stonecutting": {
+    "criteria": {
+      "has_concrete": "2021-01-26 01:16:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2020-12-24 00:15:59 +0800"
@@ -56,6 +62,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-24 00:20:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_leaded_stairs_from_concrete_leaded_stonecutting": {
+    "criteria": {
+      "has_concrete": "2021-01-26 01:16:31 +0800"
     },
     "done": true
   },
@@ -164,6 +176,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_nickel_from_dust": {
     "criteria": {
       "has_dust_nickel": "2021-01-02 18:12:54 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_to_slab": {
+    "criteria": {
+      "has_concrete": "2021-01-26 01:16:31 +0800"
     },
     "done": true
   },
@@ -458,6 +476,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/fluid_pump": {
     "criteria": {
       "has_the_recipe": "2021-01-16 22:19:27 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_from_slab": {
+    "criteria": {
+      "has_concrete": "2021-01-26 01:16:31 +0800"
     },
     "done": true
   },
@@ -965,6 +989,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_stairs_from_concrete_stonecutting": {
+    "criteria": {
+      "has_concrete": "2021-01-26 01:16:31 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_nickel_to_ingot_nickel": {
     "criteria": {
       "has_storage_nickel": "2021-01-02 18:23:37 +0800"
@@ -1004,6 +1034,12 @@
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2021-01-03 22:33:52 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_tile_stairs_from_concrete_tile_stonecutting": {
+    "criteria": {
+      "has_concrete": "2021-01-26 01:16:31 +0800"
     },
     "done": true
   },
@@ -2451,6 +2487,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alu_scaffolding_standard_from_slab": {
+    "criteria": {
+      "has_alu_scaffolding_standard": "2021-01-26 01:13:55 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_uranium_from_slab": {
     "criteria": {
       "has_storage_uranium": "2021-01-23 13:00:28 +0800"
@@ -2622,6 +2664,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2020-12-23 23:53:18 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_grate_top_to_slab": {
+    "criteria": {
+      "has_steel_scaffolding_grate_top": "2021-01-26 01:12:41 +0800"
     },
     "done": true
   },
@@ -2895,6 +2943,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alu_scaffolding_grate_top_from_standard": {
+    "criteria": {
+      "has_alu_scaffolding_standard": "2021-01-26 01:13:55 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2021-01-21 17:43:26 +0800"
@@ -2946,6 +3000,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2021-01-24 23:45:29 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/stairs_steel_scaffolding_grate_top": {
+    "criteria": {
+      "has_steel_scaffolding_grate_top": "2021-01-26 01:12:41 +0800"
     },
     "done": true
   },
@@ -3336,6 +3396,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2020-12-23 23:27:05 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_wooden_top_from_grate_top": {
+    "criteria": {
+      "has_steel_scaffolding_grate_top": "2021-01-26 01:12:41 +0800"
     },
     "done": true
   },
@@ -4008,6 +4074,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/stairs_alu_scaffolding_standard": {
+    "criteria": {
+      "has_alu_scaffolding_standard": "2021-01-26 01:13:55 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2021-01-03 01:15:43 +0800"
@@ -4125,6 +4197,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2021-01-08 22:25:10 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alu_slope": {
+    "criteria": {
+      "has_alu_scaffolding_standard": "2021-01-26 01:13:55 +0800"
     },
     "done": true
   },
@@ -4725,6 +4803,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_slab_from_concrete_stonecutting": {
+    "criteria": {
+      "has_concrete": "2021-01-26 01:16:31 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/red_small_bollard": {
     "criteria": {
       "has_stick": "2020-12-23 23:26:51 +0800"
@@ -4812,6 +4896,12 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2021-01-06 22:55:51 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_tile": {
+    "criteria": {
+      "has_concrete": "2021-01-26 01:16:31 +0800"
     },
     "done": true
   },
@@ -4953,6 +5043,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_leaded": {
+    "criteria": {
+      "has_concrete": "2021-01-26 01:16:31 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/cyan_traffic_barrel": {
     "criteria": {
       "has_bitumen": "2020-12-28 00:49:28 +0800"
@@ -4968,6 +5064,12 @@
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2020-12-28 00:46:50 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/stairs_concrete": {
+    "criteria": {
+      "has_concrete": "2021-01-26 01:16:31 +0800"
     },
     "done": true
   },
@@ -5385,6 +5487,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_tile_from_concrete_stonecutting": {
+    "criteria": {
+      "has_concrete": "2021-01-26 01:16:31 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/green_traffic_cone": {
     "criteria": {
       "has_bitumen": "2020-12-28 00:49:28 +0800"
@@ -5781,6 +5889,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete_leaded_slab_from_concrete_leaded_stonecutting": {
+    "criteria": {
+      "has_concrete": "2021-01-26 01:16:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-12-26 00:08:46 +0800"
@@ -6051,6 +6165,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alu_scaffolding_standard_to_slab": {
+    "criteria": {
+      "has_alu_scaffolding_standard": "2021-01-26 01:13:55 +0800"
+    },
+    "done": true
+  },
   "wyrmroost:recipes/wyrmroost/red_geode_hoe": {
     "criteria": {
       "has_material": "2020-12-25 22:29:41 +0800"
@@ -6216,6 +6336,12 @@
   "wyrmroost:recipes/wyrmroost/blue_geode_boots": {
     "criteria": {
       "has_material": "2020-12-24 00:27:35 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_grate_top_from_slab": {
+    "criteria": {
+      "has_steel_scaffolding_grate_top": "2021-01-26 01:12:41 +0800"
     },
     "done": true
   },
