@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_metalbarrel": {
+    "criteria": {
+      "has_minecart": "2021-01-25 22:46:31 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:main/mb_crusher": {
     "criteria": {
       "crusher": "2020-12-29 12:54:21 +0800"
@@ -464,6 +470,12 @@
   "easypaxelmod:netherite_paxel": {
     "criteria": {
       "has_tools": "2021-01-22 13:43:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2021-01-25 22:46:31 +0800"
     },
     "done": true
   },
@@ -1548,6 +1560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2021-01-25 22:46:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-12-25 22:45:47 +0800"
@@ -1608,6 +1626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_the_recipe": "2021-01-25 22:03:21 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-24 00:20:30 +0800"
@@ -1629,6 +1653,12 @@
   "roadstuff:recipes/roadstuff_group/lime_traffic_cone": {
     "criteria": {
       "has_bitumen": "2020-12-28 00:49:28 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_woodenbarrel": {
+    "criteria": {
+      "has_minecart": "2021-01-25 22:46:31 +0800"
     },
     "done": true
   },
@@ -3573,6 +3603,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_woodencrate": {
+    "criteria": {
+      "has_minecart": "2021-01-25 22:46:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-28 23:09:22 +0800"
@@ -4797,6 +4833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2021-01-25 22:46:31 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_silver_to_storage_silver": {
     "criteria": {
       "has_ingot_silver": "2021-01-02 18:23:42 +0800"
@@ -5598,6 +5640,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-01-04 22:10:29 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_reinforcedcrate": {
+    "criteria": {
+      "has_minecart": "2021-01-25 22:46:31 +0800"
     },
     "done": true
   },
@@ -6429,6 +6477,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/lantern": {
     "criteria": {
       "has_glowstone": "2021-01-23 01:34:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2021-01-25 22:46:31 +0800"
     },
     "done": true
   },
