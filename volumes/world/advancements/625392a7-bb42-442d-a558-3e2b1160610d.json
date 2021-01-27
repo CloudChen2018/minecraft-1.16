@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_metalbarrel": {
+    "criteria": {
+      "has_minecart": "2021-01-28 00:36:41 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:main/mb_crusher": {
     "criteria": {
       "crusher": "2020-12-29 12:54:21 +0800"
@@ -488,6 +494,12 @@
   "easypaxelmod:netherite_paxel": {
     "criteria": {
       "has_tools": "2021-01-22 13:43:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2021-01-28 00:36:41 +0800"
     },
     "done": true
   },
@@ -1596,6 +1608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2021-01-28 00:36:41 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-12-25 22:45:47 +0800"
@@ -1683,6 +1701,12 @@
   "roadstuff:recipes/roadstuff_group/lime_traffic_cone": {
     "criteria": {
       "has_bitumen": "2020-12-28 00:49:28 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_woodenbarrel": {
+    "criteria": {
+      "has_minecart": "2021-01-28 00:36:41 +0800"
     },
     "done": true
   },
@@ -2001,6 +2025,12 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2020-12-28 00:46:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-28 00:15:09 +0800"
     },
     "done": true
   },
@@ -2496,6 +2526,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_spruce_planks": "2021-01-12 00:56:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-28 00:15:09 +0800"
     },
     "done": true
   },
@@ -3423,6 +3459,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-28 00:15:09 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_wooden_top_from_grate_top": {
     "criteria": {
       "has_steel_scaffolding_grate_top": "2021-01-26 01:12:41 +0800"
@@ -3567,6 +3609,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-28 00:15:09 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/cyan_traffic_cone": {
     "criteria": {
       "has_bitumen": "2020-12-28 00:49:28 +0800"
@@ -3660,6 +3708,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2020-12-28 22:46:52 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_woodencrate": {
+    "criteria": {
+      "has_minecart": "2021-01-28 00:36:41 +0800"
     },
     "done": true
   },
@@ -4707,7 +4761,9 @@
       "minecraft:snowy_tundra": "2021-01-13 00:17:07 +0800",
       "minecraft:taiga_hills": "2021-01-03 17:46:09 +0800",
       "minecraft:frozen_river": "2021-01-13 00:17:02 +0800",
+      "minecraft:jungle": "2021-01-27 23:41:20 +0800",
       "minecraft:birch_forest": "2021-01-03 16:58:15 +0800",
+      "minecraft:jungle_hills": "2021-01-27 23:53:01 +0800",
       "minecraft:beach": "2020-12-23 23:14:58 +0800",
       "minecraft:dark_forest": "2021-01-03 17:15:55 +0800",
       "minecraft:river": "2020-12-23 23:15:38 +0800",
@@ -4902,6 +4958,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_iron": {
     "criteria": {
       "has_iron_ingot": "2020-12-24 00:15:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2021-01-28 00:36:41 +0800"
     },
     "done": true
   },
@@ -5475,6 +5537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-28 00:15:09 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2021-01-06 23:54:24 +0800"
@@ -5742,6 +5810,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-01-04 22:10:29 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_reinforcedcrate": {
+    "criteria": {
+      "has_minecart": "2021-01-28 00:36:41 +0800"
     },
     "done": true
   },
@@ -6066,6 +6140,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2020-12-23 23:45:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-28 00:15:09 +0800"
     },
     "done": true
   },
@@ -6594,6 +6674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2021-01-28 00:36:41 +0800"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_grave_marble": {
     "criteria": {
       "has_grave_marble": "2021-01-03 22:41:41 +0800"
@@ -6657,6 +6743,12 @@
   "mapperbase:recipes/mapperbase_group/steel_leggings": {
     "criteria": {
       "has_steel": "2020-12-25 22:45:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-28 00:15:09 +0800"
     },
     "done": true
   },
