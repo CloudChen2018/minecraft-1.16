@@ -1,0 +1,63 @@
+Stop minecraft...
+minecraft has been stopped
+file permissions has been changed
+file has been added
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+	modified:   volumes/server.properties
+	modified:   volumes/world/DIM-1/data/raids.dat
+	modified:   volumes/world/DIM1/data/raids_end.dat
+	modified:   volumes/world/advancements/625392a7-bb42-442d-a558-3e2b1160610d.json
+	modified:   volumes/world/advancements/8f1b0fa9-15b3-41c2-a2f4-f7a0ce9a31bd.json
+	modified:   volumes/world/data/greekfantasy.dat
+	modified:   volumes/world/data/raids.dat
+	modified:   volumes/world/dimensions/cazfps_chronicle/cazfp_schronicles/data/raids.dat
+	modified:   volumes/world/dimensions/good_nights_sleep/good_dream/data/raids.dat
+	modified:   volumes/world/dimensions/good_nights_sleep/nightmare/data/raids.dat
+	modified:   volumes/world/dimensions/the_bumblezone/the_bumblezone/data/raids.dat
+	modified:   volumes/world/dimensions/undergarden/undergarden/data/raids.dat
+	modified:   volumes/world/level.dat
+	modified:   volumes/world/level.dat_old
+	modified:   volumes/world/playerdata/625392a7-bb42-442d-a558-3e2b1160610d.dat
+	modified:   volumes/world/playerdata/625392a7-bb42-442d-a558-3e2b1160610d.dat_old
+	modified:   volumes/world/playerdata/8f1b0fa9-15b3-41c2-a2f4-f7a0ce9a31bd.dat
+	modified:   volumes/world/playerdata/8f1b0fa9-15b3-41c2-a2f4-f7a0ce9a31bd.dat_old
+	modified:   volumes/world/poi/r.0.0.mca
+	modified:   volumes/world/poi/r.1.-4.mca
+	modified:   volumes/world/poi/r.1.-5.mca
+	modified:   volumes/world/poi/r.3.2.mca
+	modified:   volumes/world/poi/r.3.3.mca
+	modified:   volumes/world/poi/r.4.2.mca
+	modified:   volumes/world/region/r.0.-1.mca
+	modified:   volumes/world/region/r.0.0.mca
+	modified:   volumes/world/region/r.1.-4.mca
+	modified:   volumes/world/region/r.1.-5.mca
+	modified:   volumes/world/region/r.2.-4.mca
+	modified:   volumes/world/region/r.3.2.mca
+	modified:   volumes/world/region/r.3.3.mca
+	modified:   volumes/world/region/r.4.2.mca
+	modified:   volumes/world/region/r.4.3.mca
+	modified:   volumes/world/stats/625392a7-bb42-442d-a558-3e2b1160610d.json
+	modified:   volumes/world/stats/8f1b0fa9-15b3-41c2-a2f4-f7a0ce9a31bd.json
+	deleted:    volumes/world/tombstone/saved_players/625392a7-bb42-442d-a558-3e2b1160610d/20210125-010000.save
+	deleted:    volumes/world/tombstone/saved_players/8f1b0fa9-15b3-41c2-a2f4-f7a0ce9a31bd/20210123-004000.save
+	deleted:    volumes/world/tombstone/saved_players/8f1b0fa9-15b3-41c2-a2f4-f7a0ce9a31bd/20210123-010000.save
+	deleted:    volumes/world/tombstone/saved_players/8f1b0fa9-15b3-41c2-a2f4-f7a0ce9a31bd/20210123-194000.save
+	deleted:    volumes/world/tombstone/saved_players/8f1b0fa9-15b3-41c2-a2f4-f7a0ce9a31bd/20210123-204000.save
+	deleted:    volumes/world/tombstone/saved_players/8f1b0fa9-15b3-41c2-a2f4-f7a0ce9a31bd/20210123-212000.save
+
+Untracked files:
+	test.log
+	volumes/world/tombstone/saved_players/625392a7-bb42-442d-a558-3e2b1160610d/20210127-224000.save
+	volumes/world/tombstone/saved_players/8f1b0fa9-15b3-41c2-a2f4-f7a0ce9a31bd/20210127-212000.save
+	volumes/world/tombstone/saved_players/8f1b0fa9-15b3-41c2-a2f4-f7a0ce9a31bd/20210127-214000.save
+	volumes/world/tombstone/saved_players/8f1b0fa9-15b3-41c2-a2f4-f7a0ce9a31bd/20210127-220000.save
+	volumes/world/tombstone/saved_players/8f1b0fa9-15b3-41c2-a2f4-f7a0ce9a31bd/20210127-222000.save
+	volumes/world/tombstone/saved_players/8f1b0fa9-15b3-41c2-a2f4-f7a0ce9a31bd/20210127-224000.save
+
+no changes added to commit
+git commited
+Start minecraft...
+minecraft has been started

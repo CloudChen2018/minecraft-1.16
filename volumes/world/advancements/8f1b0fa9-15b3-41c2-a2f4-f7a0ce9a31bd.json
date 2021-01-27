@@ -635,6 +635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2021-01-27 21:46:39 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_copper_to_ingot_copper": {
     "criteria": {
       "has_storage_copper": "2021-01-08 00:02:57 +0800"
@@ -1136,6 +1142,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2020-12-31 00:15:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2021-01-27 21:46:39 +0800"
     },
     "done": true
   },
