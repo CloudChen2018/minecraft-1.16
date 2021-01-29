@@ -3,6 +3,9 @@
 	#How many ticks it takes for process a recipe in the centrifuge. Default 300.
 	#Range: > 20
 	centrifugeProcessingTime = 300
+	#How long time a bee should stay in the hive when having delivered honey. Default 2400.
+	#Range: > 20
+	timeInHive = 2400
 	#How much FE to use per tick for a powered centrifuge when processing an item. Default 10.
 	#Range: > 1
 	centrifugePowerUse = 10

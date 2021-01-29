@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2021-01-29 23:45:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-23 23:29:39 +0800"
@@ -401,6 +407,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/wind_vane": {
+    "criteria": {
+      "has_item": "2021-01-30 00:34:48 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_grate_top_from_standard": {
     "criteria": {
       "has_steel_scaffolding_standard": "2021-01-26 21:02:24 +0800"
@@ -479,6 +491,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/speaker_block": {
+    "criteria": {
+      "has_item": "2021-01-30 00:34:48 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2021-01-07 22:04:55 +0800"
@@ -536,6 +554,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-12-25 22:48:48 +0800"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak/oak_barn_glass_door": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
     },
     "done": true
   },
@@ -620,6 +644,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/insulating_glass": {
     "criteria": {
       "has_glass": "2020-12-31 00:08:12 +0800"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/print_oak": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
     },
     "done": true
   },
@@ -797,6 +827,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/oak/oak_japanese_door": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/steel_fence": {
     "criteria": {
       "has_steel_ingot": "2021-01-07 22:34:46 +0800"
@@ -806,6 +842,18 @@
   "wyrmroost:recipes/wyrmroost/diamond_dragon_armor": {
     "criteria": {
       "has_diamond": "2020-12-25 00:48:39 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/jar": {
+    "criteria": {
+      "has_item": "2021-01-29 23:14:58 +0800"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak/oak_beach_door": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
     },
     "done": true
   },
@@ -1139,6 +1187,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2020-12-24 22:41:30 +0800"
@@ -1334,6 +1388,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-23 23:29:39 +0800"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak/oak_four_panel_door": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
     },
     "done": true
   },
@@ -1547,6 +1607,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/oak/oak_stable_head_door": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2021-01-01 20:58:59 +0800"
@@ -1580,6 +1646,12 @@
   "easypaxelmod:golden_paxel": {
     "criteria": {
       "has_tools": "2020-12-30 23:19:39 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/item_shelf": {
+    "criteria": {
+      "has_item": "2021-01-29 23:14:58 +0800"
     },
     "done": true
   },
@@ -2125,6 +2197,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/turn_table": {
+    "criteria": {
+      "has_item": "2021-01-30 00:34:48 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-01-01 20:57:10 +0800"
@@ -2188,6 +2266,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-12-25 22:48:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "cod_bucket": "2021-01-30 00:03:13 +0800"
     },
     "done": true
   },
@@ -2314,6 +2398,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_grate_top_to_slab": {
     "criteria": {
       "has_steel_scaffolding_grate_top": "2021-01-26 23:16:40 +0800"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_oak_bridge_end": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
     },
     "done": true
   },
@@ -2509,6 +2599,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/oak/oak_modern_door": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2020-12-23 23:26:22 +0800"
@@ -2530,6 +2626,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/alu_scaffolding_grate_top_from_standard": {
     "criteria": {
       "has_alu_scaffolding_standard": "2021-01-26 21:38:18 +0800"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak/oak_barn_door": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
     },
     "done": true
   },
@@ -2605,6 +2707,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/oak/oak_tropical_door": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-12-31 00:13:55 +0800"
@@ -2617,9 +2725,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sconce": {
+    "criteria": {
+      "has_item": "2021-01-29 23:14:58 +0800"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/bitumen_block": {
     "criteria": {
       "has_raw_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak/oak_japanese2_door": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
     },
     "done": true
   },
@@ -2632,6 +2758,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2020-12-23 23:26:52 +0800"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_tropical_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
     },
     "done": true
   },
@@ -2875,6 +3007,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/oak/oak_glass_door": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
+    },
+    "done": true
+  },
   "wyrmroost:recipes/wyrmroost/red_geode_sword": {
     "criteria": {
       "has_material": "2021-01-12 00:05:48 +0800"
@@ -2980,6 +3118,12 @@
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2021-01-22 23:51:15 +0800"
+    },
+    "done": true
+  },
+  "littlemaidrebirth:recipes/littlemaidrebirth.common/iff_copy_book": {
+    "criteria": {
+      "sugar": "2021-01-29 23:14:58 +0800"
     },
     "done": true
   },
@@ -3154,6 +3298,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-12-23 23:27:00 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/candelabra": {
+    "criteria": {
+      "has_item": "2021-01-30 00:34:04 +0800"
     },
     "done": true
   },
@@ -3542,6 +3692,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/oak_rail_bridge_powered": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2020-12-24 00:01:30 +0800"
@@ -3551,6 +3707,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-01-11 23:43:00 +0800"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
     },
     "done": true
   },
@@ -3836,6 +3998,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/food/sushi": {
+    "criteria": {
+      "has_alt_items": "2021-01-29 23:47:55 +0800"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/flatter_hammer": {
     "criteria": {
       "has_stick": "2020-12-23 23:26:52 +0800"
@@ -4083,6 +4251,18 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_iron": {
     "criteria": {
       "has_iron_ingot": "2020-12-24 00:01:30 +0800"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak/oak_western_door": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/hourglass": {
+    "criteria": {
+      "has_item": "2021-01-30 00:34:04 +0800"
     },
     "done": true
   },
@@ -4398,6 +4578,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-01-01 22:47:54 +0800"
@@ -4464,6 +4650,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/oak/oak_mystic_door": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2021-01-01 21:32:53 +0800",
@@ -4494,6 +4686,12 @@
   "roadstuff:recipes/roadstuff_group/magenta_traffic_barrel": {
     "criteria": {
       "has_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/tile_log_oak": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
     },
     "done": true
   },
@@ -4641,6 +4839,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_oak": {
+    "criteria": {
+      "has_plank": "2021-01-29 23:14:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-01-01 22:47:54 +0800"
@@ -4668,6 +4872,12 @@
   "roadstuff:recipes/roadstuff_group/light_gray_traffic_barrel": {
     "criteria": {
       "has_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_classic": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
     },
     "done": true
   },
@@ -4707,6 +4917,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_silver_hammering": {
     "criteria": {
       "has_silver_ingot": "2021-01-03 17:07:33 +0800"
@@ -4734,6 +4950,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/heavy_engineering": {
     "criteria": {
       "has_component_steel": "2021-01-08 00:03:36 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/hanging_sign_oak": {
+    "criteria": {
+      "has_plank": "2021-01-29 23:14:58 +0800"
     },
     "done": true
   },
@@ -4830,6 +5052,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum_from_blasting": {
     "criteria": {
       "has_ore_aluminum": "2020-12-23 23:49:06 +0800"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak/oak_cottage_door": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
     },
     "done": true
   },
@@ -4953,6 +5181,12 @@
     },
     "done": true
   },
+  "littlemaidrebirth:recipes/littlemaidrebirth.common/little_maid_spawn_egg": {
+    "criteria": {
+      "sugar": "2021-01-29 23:14:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2020-12-27 23:59:54 +0800"
@@ -4974,6 +5208,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2020-12-25 00:48:39 +0800"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
     },
     "done": true
   },
@@ -5037,6 +5277,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/gray_traffic_barrel": {
     "criteria": {
       "has_bitumen": "2021-01-01 20:46:17 +0800"
@@ -5058,6 +5304,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2020-12-23 23:29:00 +0800"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak/oak_stable_door": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
     },
     "done": true
   },
@@ -5094,6 +5346,12 @@
   "wyrmroost:recipes/wyrmroost/blue_geode_shovel": {
     "criteria": {
       "has_material": "2021-01-03 16:19:55 +0800"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_log_bridge_end": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
     },
     "done": true
   },
@@ -5187,6 +5445,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_oak_bridge": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/light_gray_traffic_cone": {
     "criteria": {
       "has_bitumen": "2021-01-01 20:46:17 +0800"
@@ -5277,6 +5541,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/gunpart_drum": {
     "criteria": {
       "has_ingot_steel": "2021-01-07 22:34:46 +0800"
@@ -5286,6 +5556,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/cloche": {
     "criteria": {
       "has_electron_tube": "2021-01-08 00:49:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2021-01-29 23:54:47 +0800"
     },
     "done": true
   },
@@ -5349,9 +5625,21 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/oak/oak_nether_door": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/waterwheel_segment": {
     "criteria": {
       "has_treated_planks": "2021-01-07 22:37:22 +0800"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
     },
     "done": true
   },
@@ -5400,6 +5688,18 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-01-11 23:43:00 +0800"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak/oak_paper_door": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sconce_lever": {
+    "criteria": {
+      "has_item": "2021-01-30 00:34:48 +0800"
     },
     "done": true
   },
@@ -5478,6 +5778,12 @@
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2020-12-27 23:54:12 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/tile_planks_oak": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
     },
     "done": true
   },
@@ -5577,6 +5883,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/cog_block": {
+    "criteria": {
+      "has_item": "2021-01-30 00:34:48 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2020-12-25 00:48:39 +0800"
@@ -5622,6 +5934,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bonemeal": "2020-12-30 23:15:38 +0800"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-01-29 23:14:58 +0800"
     },
     "done": true
   },
