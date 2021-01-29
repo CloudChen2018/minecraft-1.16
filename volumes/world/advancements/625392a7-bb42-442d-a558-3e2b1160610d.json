@@ -2493,6 +2493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-01-29 14:16:19 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_extractcovered": {
     "criteria": {
       "has_the_recipe": "2021-01-24 23:52:52 +0800"
