@@ -1,4 +1,10 @@
 {
+  "supplementaries:recipes/decorations/candelabra_silver": {
+    "criteria": {
+      "has_item": "2021-02-01 00:03:18 +0800"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/steel_shovel": {
     "criteria": {
       "has_steel_ingot": "2021-01-07 22:34:46 +0800"
@@ -56,6 +62,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/concrete": {
     "criteria": {
       "has_clay": "2020-12-25 00:31:35 +0800"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:31 +0800"
     },
     "done": true
   },
@@ -146,6 +158,12 @@
   "mcwdoors:recipes/birch/birch_classic_door": {
     "criteria": {
       "has_planks": "2021-01-31 21:44:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
     },
     "done": true
   },
@@ -401,6 +419,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/spruce/spruce_tropical_door": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/yellow_small_bollard": {
     "criteria": {
       "has_stick": "2020-12-23 23:26:52 +0800"
@@ -515,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2021-02-01 22:41:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-12-31 00:13:55 +0800"
@@ -530,6 +560,12 @@
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2020-12-24 22:41:30 +0800"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce/spruce_paper_door": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
     },
     "done": true
   },
@@ -761,6 +797,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/spruce/spruce_western_door": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2021-01-07 23:29:36 +0800"
@@ -827,6 +869,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/spruce/spruce_stable_head_door": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2020-12-23 23:28:29 +0800"
@@ -842,6 +890,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2021-01-08 00:31:25 +0800"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce/spruce_japanese_door": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
     },
     "done": true
   },
@@ -971,6 +1025,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:31 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_nickel_to_ingot_nickel": {
     "criteria": {
       "has_storage_nickel": "2021-01-08 00:42:41 +0800"
@@ -1091,6 +1151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2020-12-23 23:26:22 +0800"
@@ -1121,6 +1187,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/spruce_rail_bridge": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/birch_rail_bridge": {
     "criteria": {
       "has_planks": "2021-01-31 21:44:26 +0800"
@@ -1130,6 +1202,12 @@
   "mcwdoors:recipes/birch/birch_cottage_door": {
     "criteria": {
       "has_planks": "2021-01-31 21:44:26 +0800"
+    },
+    "done": true
+  },
+  "good_nights_sleep:recipes/gns_blocks/strange_bed": {
+    "criteria": {
+      "has_item": "2021-02-02 00:06:38 +0800"
     },
     "done": true
   },
@@ -1172,6 +1250,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_lead_to_ingot_lead": {
     "criteria": {
       "has_storage_lead": "2021-01-03 22:08:55 +0800"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_cottage": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:31 +0800"
     },
     "done": true
   },
@@ -1289,6 +1373,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_mystic_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-31 00:08:12 +0800"
@@ -1376,6 +1466,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/chute_steel": {
     "criteria": {
       "has_plate": "2021-01-08 00:01:58 +0800"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
     },
     "done": true
   },
@@ -1592,6 +1688,12 @@
   "roadstuff:recipes/roadstuff_group/white_traffic_bollard": {
     "criteria": {
       "has_bitumen": "2021-01-01 20:46:18 +0800"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_spruce_bridge": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
     },
     "done": true
   },
@@ -1907,6 +2009,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/spruce/spruce_barn_door": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-03 01:36:03 +0800"
@@ -2191,6 +2299,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2020-12-24 00:01:30 +0800"
@@ -2431,6 +2545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2021-01-31 23:49:26 +0800"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/turn_table": {
     "criteria": {
       "has_item": "2021-01-30 00:34:48 +0800"
@@ -2479,6 +2599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2021-02-01 22:41:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_mossy_cobblestone": "2021-01-16 15:55:03 +0800"
@@ -2494,6 +2620,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/alu_scaffolding_standard_from_slab": {
     "criteria": {
       "has_alu_scaffolding_standard": "2021-01-26 21:38:18 +0800"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce/spruce_nether_door": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
     },
     "done": true
   },
@@ -2521,9 +2653,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/tile_log_spruce": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:31 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/black_traffic_bollard": {
     "criteria": {
       "has_bitumen": "2021-01-01 20:46:18 +0800"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_log_bridge_end": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
     },
     "done": true
   },
@@ -2638,6 +2782,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_grate_top_to_slab": {
     "criteria": {
       "has_steel_scaffolding_grate_top": "2021-01-26 23:16:40 +0800"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce/spruce_mystic_door": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
     },
     "done": true
   },
@@ -2815,6 +2965,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2021-02-02 00:04:47 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_copper": {
     "criteria": {
       "has_plate_copper": "2021-01-23 00:29:17 +0800"
@@ -2824,6 +2986,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2020-12-28 00:24:26 +0800"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_rail_bridge_powered": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
     },
     "done": true
   },
@@ -2971,6 +3139,24 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/spruce/spruce_classic_door": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce/spruce_japanese2_door": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/oak/oak_tropical_door": {
     "criteria": {
       "has_planks": "2021-01-29 23:14:58 +0800"
@@ -3046,6 +3232,12 @@
   "roadstuff:recipes/roadstuff_group/brown_traffic_cone": {
     "criteria": {
       "has_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce/spruce_stable_door": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
     },
     "done": true
   },
@@ -3133,6 +3325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-12-31 00:13:55 +0800"
@@ -3154,6 +3352,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-23 23:29:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
     },
     "done": true
   },
@@ -3403,6 +3607,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "ice": "2021-02-01 22:41:13 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/brown_traffic_bollard": {
     "criteria": {
       "has_bitumen": "2021-01-01 20:46:17 +0800"
@@ -3412,6 +3622,12 @@
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2021-01-22 23:51:15 +0800"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:31 +0800"
     },
     "done": true
   },
@@ -3619,6 +3835,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/spruce/spruce_four_panel_door": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/candelabra": {
     "criteria": {
       "has_item": "2021-01-30 00:34:04 +0800"
@@ -3741,11 +3963,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2021-02-02 00:04:46 +0800",
       "minecraft:skeleton": "2020-12-24 00:31:41 +0800",
       "minecraft:hoglin": "2021-01-12 20:21:52 +0800",
       "minecraft:spider": "2020-12-25 23:04:04 +0800",
       "minecraft:creeper": "2021-01-14 01:39:55 +0800",
       "minecraft:phantom": "2020-12-27 23:43:01 +0800",
+      "minecraft:wither_skeleton": "2021-02-02 00:33:28 +0800",
       "minecraft:cave_spider": "2021-01-30 17:29:49 +0800",
       "minecraft:enderman": "2021-01-07 02:11:44 +0800",
       "minecraft:zombie": "2020-12-25 22:42:23 +0800",
@@ -3891,6 +4115,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_spruce_bridge_end": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2020-12-23 23:26:22 +0800"
@@ -3972,6 +4202,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2021-01-03 22:45:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2021-02-02 00:04:47 +0800"
     },
     "done": true
   },
@@ -4095,6 +4331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2021-02-01 22:41:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2020-12-23 23:38:24 +0800"
@@ -4197,6 +4439,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2021-02-01 23:55:43 +0800"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/flarestack": {
     "criteria": {
       "has_fluid_pipe": "2021-01-27 23:15:46 +0800"
@@ -4266,6 +4514,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_the_recipe": "2021-01-03 21:58:56 +0800"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/print_spruce": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
     },
     "done": true
   },
@@ -4673,6 +4927,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_plank": "2021-02-01 22:41:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2021-01-01 20:57:10 +0800"
@@ -5061,6 +5321,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/activate_magic_item": {
+    "criteria": {
+      "coded_trigger": "2021-02-02 00:12:32 +0800"
+    },
+    "done": true
+  },
   "immersiverailroading:recipes/immersiverailroading.main/item_conductor_whistle-177299132711": {
     "criteria": {
       "hasingotGold5": "2020-12-30 23:19:39 +0800",
@@ -5084,6 +5350,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/spruce/spruce_beach_door": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_ice_dragon": "2021-01-31 20:36:11 +0800"
@@ -5099,6 +5371,12 @@
   "aquaculture:recipes/tools/gold_fillet_knife": {
     "criteria": {
       "has_items": "2020-12-30 23:19:39 +0800"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce/spruce_barn_glass_door": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
     },
     "done": true
   },
@@ -5360,9 +5638,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2021-02-01 23:52:56 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2020-12-23 23:27:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
     },
     "done": true
   },
@@ -5432,6 +5722,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:31 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/crate": {
     "criteria": {
       "has_treated_planks": "2021-01-07 22:37:22 +0800"
@@ -5447,6 +5743,12 @@
   "minecraft:husbandry/safely_harvest_honey": {
     "criteria": {
       "safely_harvest_honey": "2021-01-19 23:23:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2021-02-01 00:03:18 +0800"
     },
     "done": true
   },
@@ -5477,6 +5779,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-01-01 22:46:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
     },
     "done": true
   },
@@ -5567,6 +5875,12 @@
   "wyrmroost:recipes/wyrmroost/blue_geode_tipped_arrow": {
     "criteria": {
       "has_geode": "2021-01-03 16:19:55 +0800"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce/spruce_modern_door": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
     },
     "done": true
   },
@@ -5696,9 +6010,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/hanging_sign_spruce": {
+    "criteria": {
+      "has_plank": "2021-02-01 22:41:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-01-01 22:46:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2021-02-02 00:03:08 +0800"
     },
     "done": true
   },
@@ -5852,6 +6178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_steel": {
     "criteria": {
       "has_steel_ingot": "2021-01-07 22:34:46 +0800"
@@ -5882,6 +6214,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/spruce/spruce_glass_door": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2021-01-22 23:51:15 +0800"
@@ -5903,6 +6241,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-12-31 00:13:55 +0800"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:31 +0800"
     },
     "done": true
   },
@@ -5954,6 +6298,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2021-02-01 22:05:33 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/orange_traffic_barrel": {
     "criteria": {
       "has_bitumen": "2021-01-01 20:46:17 +0800"
@@ -5978,9 +6328,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2021-02-02 00:04:47 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/cyan_traffic_bollard": {
     "criteria": {
       "has_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2021-02-02 00:17:21 +0800"
     },
     "done": true
   },
@@ -6074,6 +6436,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:31 +0800"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/asphalt1": {
     "criteria": {
       "has_raw_bitumen": "2021-01-01 20:46:17 +0800"
@@ -6152,6 +6520,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2021-01-31 23:49:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2021-01-07 22:04:55 +0800"
@@ -6221,6 +6595,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sample_drill": {
     "criteria": {
       "has_steel_scaffolding_standard": "2021-01-26 21:02:24 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/tile_planks_spruce": {
+    "criteria": {
+      "has_planks": "2021-02-01 22:41:31 +0800"
     },
     "done": true
   },
