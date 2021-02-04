@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-02-04 00:11:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-24 00:20:30 +0800"
@@ -122,6 +128,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
       "has_polished_granite": "2021-01-03 11:19:48 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_electrum_from_slab": {
+    "criteria": {
+      "has_storage_electrum": "2021-02-03 23:08:43 +0800"
     },
     "done": true
   },
@@ -797,6 +809,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "jungle": "2021-02-02 19:39:23 +0800"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/concrete_1": {
     "criteria": {
       "has_gravel": "2020-12-24 00:20:30 +0800"
@@ -1046,6 +1064,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_copper_hammering": {
     "criteria": {
       "has_copper_ingot": "2020-12-28 00:23:12 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_electrum": {
+    "criteria": {
+      "has_electrum_ingot": "2021-02-03 22:59:22 +0800"
     },
     "done": true
   },
@@ -1445,6 +1469,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_electrum_to_storage_electrum": {
+    "criteria": {
+      "has_ingot_electrum": "2021-02-03 22:59:22 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2020-12-25 23:47:22 +0800"
@@ -1716,6 +1746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2021-02-02 19:36:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2021-01-26 23:55:51 +0800"
@@ -1803,6 +1839,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-24 00:20:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/connector_mv": {
+    "criteria": {
+      "has_electrum_ingot": "2021-02-03 22:59:22 +0800"
     },
     "done": true
   },
@@ -1977,6 +2019,12 @@
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2021-01-03 13:23:10 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/piston_launcher": {
+    "criteria": {
+      "has_item": "2021-02-02 19:50:23 +0800"
     },
     "done": true
   },
@@ -2985,6 +3033,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alloybrick_from_slab": {
+    "criteria": {
+      "has_alloybrick": "2021-02-03 13:55:34 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-24 00:20:30 +0800"
@@ -3018,6 +3072,18 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-12-24 00:04:32 +0800"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2021-02-02 19:48:01 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alloybrick_to_slab": {
+    "criteria": {
+      "has_alloybrick": "2021-02-03 13:55:34 +0800"
     },
     "done": true
   },
@@ -4035,6 +4101,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_electrum_to_slab": {
+    "criteria": {
+      "has_storage_electrum": "2021-02-03 23:08:43 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2020-12-28 00:46:50 +0800"
@@ -4432,6 +4504,7 @@
       "minecraft:skeleton": "2020-12-24 23:18:50 +0800",
       "minecraft:ravager": "2021-01-23 01:05:22 +0800",
       "minecraft:vindicator": "2021-01-23 01:03:03 +0800",
+      "minecraft:magma_cube": "2021-02-02 22:27:43 +0800",
       "minecraft:spider": "2020-12-24 23:29:08 +0800",
       "minecraft:creeper": "2021-01-06 23:54:23 +0800",
       "minecraft:slime": "2020-12-29 00:38:02 +0800",
@@ -4868,6 +4941,12 @@
     },
     "done": true
   },
+  "mapperbase:recipes/mapperbase_group/raw_bitumen_from_block": {
+    "criteria": {
+      "has_bitumen_block": "2021-02-04 00:31:01 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-01-07 00:32:25 +0800"
@@ -4943,6 +5022,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2020-12-23 23:26:51 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_electrum_to_ingot_electrum": {
+    "criteria": {
+      "has_storage_electrum": "2021-02-03 22:59:22 +0800"
     },
     "done": true
   },
@@ -5246,6 +5331,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/flute": {
+    "criteria": {
+      "has_item": "2021-02-02 19:48:01 +0800"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/flatter_hammer": {
     "criteria": {
       "has_stick": "2020-12-23 23:26:51 +0800"
@@ -5327,6 +5418,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2021-01-04 01:23:20 +0800",
+      "minecraft:snowy_mountains": "2021-02-03 00:11:10 +0800",
       "minecraft:forest": "2020-12-23 23:14:48 +0800",
       "minecraft:mountains": "2021-01-03 17:16:34 +0800",
       "minecraft:taiga": "2021-01-03 17:45:57 +0800",
@@ -5339,10 +5431,12 @@
       "minecraft:beach": "2020-12-23 23:14:58 +0800",
       "minecraft:dark_forest": "2021-01-03 17:15:55 +0800",
       "minecraft:river": "2020-12-23 23:15:38 +0800",
+      "minecraft:snowy_taiga": "2021-02-03 00:28:13 +0800",
       "minecraft:birch_forest_hills": "2021-01-03 17:00:49 +0800",
       "minecraft:wooded_mountains": "2021-01-13 00:04:20 +0800",
       "minecraft:wooded_hills": "2020-12-23 23:14:41 +0800",
       "minecraft:swamp": "2020-12-25 21:50:00 +0800",
+      "minecraft:snowy_taiga_hills": "2021-02-03 00:28:05 +0800",
       "minecraft:plains": "2020-12-23 23:15:08 +0800"
     },
     "done": false
@@ -5599,6 +5693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2021-02-02 19:36:08 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/light_blue_traffic_barrel": {
     "criteria": {
       "has_bitumen": "2020-12-28 00:49:28 +0800"
@@ -5650,6 +5750,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_red_flower": "2020-12-24 22:35:45 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/tesla_coil": {
+    "criteria": {
+      "has_capacitor_hv": "2021-02-03 23:30:51 +0800"
     },
     "done": true
   },
@@ -6020,6 +6126,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2021-02-03 13:55:07 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2021-01-03 01:15:43 +0800"
@@ -6272,6 +6384,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/connector_mv_relay": {
+    "criteria": {
+      "has_electrum_ingot": "2021-02-03 22:59:22 +0800"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_planks": "2021-01-30 22:40:02 +0800"
@@ -6488,6 +6606,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_electrum_hammering": {
+    "criteria": {
+      "has_electrum_ingot": "2021-02-03 22:59:22 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum_from_blasting": {
     "criteria": {
       "has_ore_aluminum": "2020-12-27 23:32:57 +0800"
@@ -6611,6 +6735,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_rudders": {
     "criteria": {
       "has_iron_rod": "2021-01-24 23:51:53 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wire_electrum": {
+    "criteria": {
+      "has_electrum_ingot": "2021-02-03 22:59:22 +0800"
     },
     "done": true
   },
@@ -6893,6 +7023,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2021-01-12 00:56:14 +0800"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge_end": {
+    "criteria": {
+      "has_planks": "2021-02-03 13:55:07 +0800"
     },
     "done": true
   },
@@ -7556,6 +7692,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/reinforced_crate": {
     "criteria": {
       "has_treated_planks": "2020-12-25 22:58:24 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/railgun": {
+    "criteria": {
+      "has_capacitor_hv": "2021-02-03 23:30:51 +0800"
     },
     "done": true
   },
