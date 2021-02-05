@@ -1061,6 +1061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2021-02-05 20:50:47 +0800"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/gutter_base_light_gray": {
     "criteria": {
       "has_planks": "2021-02-04 00:19:55 +0800"
