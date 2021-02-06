@@ -1127,6 +1127,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/jar": {
+    "criteria": {
+      "has_item": "2021-02-06 22:11:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-28 23:09:22 +0800"
@@ -1610,6 +1616,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/empty_casing": {
     "criteria": {
       "has_coppper_ingot": "2020-12-28 00:23:12 +0800"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2021-02-06 09:27:19 +0800"
     },
     "done": true
   },
@@ -3474,6 +3486,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/turntable": {
     "criteria": {
       "has_coil_lv": "2020-12-28 00:25:07 +0800"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_ancient_tablet": {
+    "criteria": {
+      "has_ancient_tablet_of_recall": "2021-02-06 09:27:19 +0800"
     },
     "done": true
   },
