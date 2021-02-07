@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_uranium_from_blasting": {
+    "criteria": {
+      "has_ore_uranium": "2021-02-07 13:17:40 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2021-01-26 22:04:42 +0800"
@@ -4304,6 +4310,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2020-12-24 00:01:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_uranium": {
+    "criteria": {
+      "has_ore_uranium": "2021-02-07 13:17:40 +0800"
     },
     "done": true
   },
