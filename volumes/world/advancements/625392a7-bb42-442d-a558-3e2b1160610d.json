@@ -4059,6 +4059,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-02-08 22:57:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2021-01-28 00:15:09 +0800"
@@ -7072,6 +7078,12 @@
   "supplementaries:recipes/decorations/sack": {
     "criteria": {
       "has_item": "2021-01-29 23:37:51 +0800"
+    },
+    "done": true
+  },
+  "productivebees:recipes/decorations/glowstone_nest": {
+    "criteria": {
+      "has_item": "2021-02-08 22:57:16 +0800"
     },
     "done": true
   },
