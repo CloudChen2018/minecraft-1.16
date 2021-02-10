@@ -1559,6 +1559,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_hop_graphite_from_blasting": {
+    "criteria": {
+      "has_dust_hop_graphite": "2021-02-11 00:29:05 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_structure_steel": {
     "criteria": {
       "has_steel_ingot": "2020-12-25 22:45:18 +0800"
@@ -1728,6 +1734,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wire_aluminum": {
     "criteria": {
       "has_aluminum_ingot": "2021-01-03 15:17:30 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/fluorescent_tube": {
+    "criteria": {
+      "has_electrode": "2021-02-11 00:34:03 +0800"
     },
     "done": true
   },
@@ -3348,6 +3360,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_steel_from_slab": {
     "criteria": {
       "has_sheetmetal_steel": "2021-02-07 23:29:42 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/gunpowder_barrel": {
+    "criteria": {
+      "has_wooden_barrel": "2021-02-11 00:24:59 +0800"
     },
     "done": true
   },
@@ -5499,6 +5517,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum_to_nugget_aluminum": {
+    "criteria": {
+      "has_ingot_aluminum": "2021-02-11 01:29:13 +0800"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/steel_block": {
     "criteria": {
       "has_steel_ingot": "2020-12-25 22:45:18 +0800"
@@ -6403,6 +6427,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_hop_graphite": {
+    "criteria": {
+      "has_dust_hop_graphite": "2021-02-11 00:29:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-01-03 12:54:49 +0800"
@@ -6928,6 +6958,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_rudders": {
     "criteria": {
       "has_iron_rod": "2021-01-24 23:51:53 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/nugget_aluminum_to_ingot_aluminum": {
+    "criteria": {
+      "has_nugget_aluminum": "2021-02-11 01:29:13 +0800"
     },
     "done": true
   },
