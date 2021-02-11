@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-02-11 14:37:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2020-12-24 22:50:46 +0800"
@@ -773,6 +779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-02-11 14:37:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2020-12-24 23:08:32 +0800"
@@ -1109,6 +1121,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/blackboard": {
+    "criteria": {
+      "has_item": "2021-02-12 00:19:34 +0800"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/purple_striped_awning": {
     "criteria": {
       "has_planks": "2021-01-30 22:40:07 +0800"
@@ -1256,6 +1274,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2020-12-24 00:15:59 +0800"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2021-02-12 00:19:34 +0800"
     },
     "done": true
   },
@@ -3117,6 +3141,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutter_base_light_blue": {
+    "criteria": {
+      "has_planks": "2021-02-11 23:44:16 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_verticalcovered": {
     "criteria": {
       "has_vertical_conveyor": "2021-01-24 23:51:02 +0800"
@@ -3795,6 +3825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-02-11 14:37:46 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/gunpart_barrel": {
     "criteria": {
       "has_stick_steel": "2020-12-29 01:57:56 +0800"
@@ -4119,6 +4155,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutter_middle_light_blue": {
+    "criteria": {
+      "has_planks": "2021-02-11 23:44:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2020-12-25 23:43:02 +0800"
@@ -4377,6 +4419,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_splittercovered": {
+    "criteria": {
+      "has_the_recipe": "2021-02-11 12:08:41 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bullets": {
     "criteria": {
       "has_paper": "2020-12-28 22:46:52 +0800"
@@ -4596,6 +4644,12 @@
   "mcwtrpdoors:recipes/crimson/crimson_cottage_trapdoor": {
     "criteria": {
       "has_planks": "2021-02-02 00:23:39 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_top_light_blue": {
+    "criteria": {
+      "has_planks": "2021-02-11 23:44:16 +0800"
     },
     "done": true
   },
@@ -6285,6 +6339,7 @@
       "apple": "2020-12-23 23:31:03 +0800",
       "potato": "2020-12-28 22:59:48 +0800",
       "bread": "2020-12-25 01:03:41 +0800",
+      "melon_slice": "2021-02-11 14:43:37 +0800",
       "beetroot": "2021-01-24 21:23:43 +0800",
       "cooked_salmon": "2021-01-03 10:50:04 +0800"
     },
@@ -6529,6 +6584,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/myrmex_resin": {
+    "criteria": {
+      "jungle": "2021-02-11 23:22:03 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/concrete_tile_from_concrete_stonecutting": {
     "criteria": {
       "has_concrete": "2021-01-26 01:16:31 +0800"
@@ -6628,6 +6689,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2020-12-25 00:53:53 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_bot_light_blue": {
+    "criteria": {
+      "has_planks": "2021-02-11 23:44:16 +0800"
     },
     "done": true
   },
@@ -7996,6 +8063,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_skyhook": {
+    "criteria": {
+      "skyhook": "2021-02-11 12:00:32 +0800"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/steel_leggings": {
     "criteria": {
       "has_steel": "2020-12-25 22:45:18 +0800"
@@ -8017,6 +8090,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-03 13:23:22 +0800"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge_end": {
+    "criteria": {
+      "has_planks": "2021-02-12 00:19:34 +0800"
     },
     "done": true
   },
