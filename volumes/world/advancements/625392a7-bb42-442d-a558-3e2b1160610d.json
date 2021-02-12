@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/nugget_aluminum_recycle_faraday_head_from_blasting": {
+    "criteria": {
+      "has_armor_faraday_head": "2021-02-12 16:45:23 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2021-01-12 00:56:14 +0800"
@@ -1733,6 +1739,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_legs": {
+    "criteria": {
+      "has_alu_plate": "2021-02-12 19:25:00 +0800"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2020-12-25 01:12:44 +0800",
@@ -1965,6 +1977,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_mv": {
     "criteria": {
       "has_electrum_ingot": "2021-02-03 22:59:22 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_head": {
+    "criteria": {
+      "has_alu_plate": "2021-02-12 19:25:00 +0800"
     },
     "done": true
   },
@@ -2202,6 +2220,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/insulating_glass_to_slab": {
+    "criteria": {
+      "has_insulating_glass": "2021-02-12 19:01:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-12-24 00:20:28 +0800"
@@ -2259,6 +2283,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2020-12-26 00:23:11 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/razor_wire": {
+    "criteria": {
+      "has_wire_steel": "2021-02-12 19:25:40 +0800"
     },
     "done": true
   },
@@ -2376,6 +2406,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_feet": {
+    "criteria": {
+      "has_alu_plate": "2021-02-12 19:25:00 +0800"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/diamond_fillet_knife": {
     "criteria": {
       "has_items": "2020-12-24 00:29:09 +0800"
@@ -2487,6 +2523,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2020-12-24 23:29:09 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_base_green": {
+    "criteria": {
+      "has_planks": "2021-02-12 19:00:44 +0800"
     },
     "done": true
   },
@@ -2646,6 +2688,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-24 00:20:30 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_top_green": {
+    "criteria": {
+      "has_planks": "2021-02-12 19:00:44 +0800"
     },
     "done": true
   },
@@ -3735,6 +3783,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/nugget_aluminum_recycle_faraday_head": {
+    "criteria": {
+      "has_armor_faraday_head": "2021-02-12 16:45:23 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_pink": {
     "criteria": {
       "has_sheetmetal": "2020-12-29 00:09:50 +0800"
@@ -3834,6 +3888,12 @@
   "mcwdoors:recipes/oak/oak_japanese2_door": {
     "criteria": {
       "has_planks": "2021-02-07 11:21:21 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_chest": {
+    "criteria": {
+      "has_alu_plate": "2021-02-12 19:25:00 +0800"
     },
     "done": true
   },
@@ -5811,6 +5871,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutter_middle_green": {
+    "criteria": {
+      "has_planks": "2021-02-12 19:00:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2020-12-28 22:46:12 +0800"
@@ -6503,6 +6569,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/chute_aluminum": {
+    "criteria": {
+      "has_plate": "2021-02-12 19:25:00 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2020-12-23 23:45:27 +0800"
@@ -6644,6 +6716,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/constantan_mix": {
     "criteria": {
       "has_nickel_dust": "2021-01-02 18:12:54 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_bot_green": {
+    "criteria": {
+      "has_planks": "2021-02-12 19:00:44 +0800"
     },
     "done": true
   },
@@ -6800,6 +6878,12 @@
   "aquaculture:recipes/tools/stone_fillet_knife": {
     "criteria": {
       "has_items": "2020-12-23 23:45:27 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/insulating_glass_from_slab": {
+    "criteria": {
+      "has_insulating_glass": "2021-02-12 19:01:08 +0800"
     },
     "done": true
   },
@@ -7592,6 +7676,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2021-01-22 13:43:37 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_aluminum": {
+    "criteria": {
+      "has_plate_aluminum": "2021-02-12 19:25:00 +0800"
     },
     "done": true
   },
