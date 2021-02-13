@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "productivebees:husbandry/bee_cage/nest_locator": {
+    "criteria": {
+      "get_item": "2021-02-13 22:15:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2021-02-01 22:41:39 +0800"
@@ -386,6 +392,12 @@
   "greekfantasy:root": {
     "criteria": {
       "inv_changed": "2020-12-23 23:23:44 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candelabra_silver": {
+    "criteria": {
+      "has_item": "2021-02-13 20:02:24 +0800"
     },
     "done": true
   },
@@ -611,6 +623,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_item": "2021-02-13 19:35:08 +0800"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/spruce/spruce_paper_door": {
     "criteria": {
       "has_planks": "2021-02-01 22:41:39 +0800"
@@ -797,6 +815,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "desert": "2021-02-13 17:46:31 +0800"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/concrete_1": {
     "criteria": {
       "has_gravel": "2020-12-23 23:29:39 +0800"
@@ -824,6 +848,12 @@
   "mcwdoors:recipes/print_oak": {
     "criteria": {
       "has_planks": "2021-01-29 23:14:58 +0800"
+    },
+    "done": true
+  },
+  "wyrmroost:recipes/wyrmroost/cooked_common_meat_from_campfire": {
+    "criteria": {
+      "has_raw_common_meat": "2021-02-13 17:55:45 +0800"
     },
     "done": true
   },
@@ -1238,6 +1268,12 @@
   "mcwdoors:recipes/metal_warning_door": {
     "criteria": {
       "has_planks": "2021-01-30 14:18:12 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "has_item": "2021-02-13 15:46:09 +0800"
     },
     "done": true
   },
@@ -2303,6 +2339,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_lead_to_slab": {
+    "criteria": {
+      "has_storage_lead": "2021-02-13 20:00:51 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/alu_fence": {
     "criteria": {
       "has_alu_ingot": "2021-01-08 00:32:09 +0800"
@@ -2956,6 +2998,12 @@
   "mcwroofs:recipes/tile_log_spruce": {
     "criteria": {
       "has_planks": "2021-02-01 22:41:31 +0800"
+    },
+    "done": true
+  },
+  "wyrmroost:recipes/wyrmroost/cooked_common_meat_from_smelting": {
+    "criteria": {
+      "has_raw_common_meat": "2021-02-13 17:55:45 +0800"
     },
     "done": true
   },
@@ -4003,6 +4051,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/cage": {
+    "criteria": {
+      "has_item": "2021-02-13 22:14:11 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_nickel_from_blasting": {
     "criteria": {
       "has_ore_nickel": "2021-01-03 16:20:01 +0800"
@@ -4138,6 +4192,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_nickel_hammering": {
     "criteria": {
       "has_nickel_ingot": "2021-01-08 00:42:41 +0800"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/bee_cage/professional_bee": {
+    "criteria": {
+      "lumber_bee": "2021-02-13 23:07:04 +0800"
     },
     "done": true
   },
@@ -4525,6 +4585,12 @@
     },
     "done": true
   },
+  "wyrmroost:recipes/wyrmroost/cooked_common_meat_from_smoking": {
+    "criteria": {
+      "has_raw_common_meat": "2021-02-13 17:55:45 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2020-12-30 23:09:49 +0800"
@@ -4792,6 +4858,12 @@
   "mcwroofs:recipes/gutter_base_orange": {
     "criteria": {
       "has_planks": "2021-02-04 01:01:15 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2021-02-13 17:51:28 +0800"
     },
     "done": true
   },
@@ -5119,6 +5191,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_lead_from_slab": {
+    "criteria": {
+      "has_storage_lead": "2021-02-13 20:00:51 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_the_recipe": "2021-01-03 21:58:56 +0800"
@@ -5318,15 +5396,20 @@
       "minecraft:forest": "2020-12-23 23:24:10 +0800",
       "minecraft:mountains": "2021-01-12 23:47:36 +0800",
       "minecraft:taiga": "2021-01-23 20:11:02 +0800",
+      "minecraft:desert_hills": "2021-02-13 16:37:14 +0800",
       "minecraft:snowy_tundra": "2021-01-30 17:31:31 +0800",
+      "minecraft:taiga_hills": "2021-02-13 19:03:47 +0800",
+      "minecraft:desert": "2021-02-13 16:36:42 +0800",
       "minecraft:frozen_river": "2021-01-30 20:20:35 +0800",
       "minecraft:birch_forest": "2020-12-25 00:38:50 +0800",
+      "minecraft:savanna_plateau": "2021-02-13 17:08:39 +0800",
       "minecraft:beach": "2020-12-23 23:24:12 +0800",
       "minecraft:river": "2020-12-24 00:02:24 +0800",
       "minecraft:snowy_taiga": "2021-01-30 20:20:36 +0800",
       "minecraft:birch_forest_hills": "2020-12-25 00:48:05 +0800",
       "minecraft:wooded_hills": "2020-12-23 23:23:44 +0800",
       "minecraft:swamp": "2020-12-25 00:30:23 +0800",
+      "minecraft:savanna": "2021-02-13 17:02:18 +0800",
       "minecraft:plains": "2020-12-23 23:24:39 +0800"
     },
     "done": false
@@ -5340,6 +5423,12 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2021-01-07 01:33:34 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "has_item": "2021-02-13 19:23:07 +0800"
     },
     "done": true
   },
@@ -5775,6 +5864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2021-02-13 17:45:50 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_lead_hammering": {
     "criteria": {
       "has_lead_ingot": "2021-01-03 22:08:55 +0800"
@@ -6115,6 +6210,12 @@
     },
     "done": true
   },
+  "productivebees:husbandry/bee_cage/quartz_nest/catch_crystalline_bee/breed_iron_bee/breed_all_productive_bees": {
+    "criteria": {
+      "lumber_bee": "2021-02-13 23:07:04 +0800"
+    },
+    "done": false
+  },
   "mcwdoors:recipes/birch/birch_japanese_door": {
     "criteria": {
       "has_planks": "2021-01-31 21:44:26 +0800"
@@ -6202,6 +6303,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2020-12-30 23:29:01 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/myrmex_resin": {
+    "criteria": {
+      "desert": "2021-02-13 17:48:33 +0800"
     },
     "done": true
   },

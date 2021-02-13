@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-13 10:04:25 +0800"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/iron_rod": {
     "criteria": {
       "has_iron_ingot": "2020-12-24 00:15:59 +0800"
@@ -296,6 +302,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/blastbrick": {
     "criteria": {
       "has_the_recipe": "2020-12-25 22:20:02 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_plank": "2021-02-13 10:03:36 +0800"
     },
     "done": true
   },
@@ -653,6 +665,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_item": "2021-02-13 10:31:54 +0800"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/spruce/spruce_paper_door": {
     "criteria": {
       "has_planks": "2021-01-29 23:20:21 +0800"
@@ -704,6 +722,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/toolbox": {
     "criteria": {
       "has_iron_ingot": "2020-12-24 00:15:59 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holder": {
+    "criteria": {
+      "has_item": "2021-02-13 22:51:13 +0800"
     },
     "done": true
   },
@@ -1040,6 +1064,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2021-01-16 22:54:49 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "has_item": "2021-02-13 17:33:03 +0800"
     },
     "done": true
   },
@@ -1484,6 +1514,12 @@
   "wyrmroost:recipes/wyrmroost/cooked_lowtier_meat_from_campfire": {
     "criteria": {
       "has_raw_lowtier_meat": "2021-01-03 17:26:32 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_plank": "2021-02-13 11:33:41 +0800"
     },
     "done": true
   },
@@ -2304,6 +2340,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_oak": {
+    "criteria": {
+      "has_plank": "2021-02-13 11:33:41 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sword_steel": {
     "criteria": {
       "has_steel_ingot": "2020-12-25 22:45:18 +0800"
@@ -2331,6 +2373,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/nugget_aluminum_recycle_faraday_chest": {
     "criteria": {
       "has_armor_faraday_chest": "2021-02-12 11:00:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2021-02-13 10:04:25 +0800"
     },
     "done": true
   },
@@ -2868,6 +2916,12 @@
   "mapperbase:recipes/mapperbase_group/steel_rod_from_blasting": {
     "criteria": {
       "has_iron_rod": "2021-01-24 23:51:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2021-02-13 10:04:25 +0800"
     },
     "done": true
   },
@@ -5613,6 +5667,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "has_item": "2021-02-13 10:03:36 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2020-12-24 22:50:46 +0800"
@@ -5688,6 +5748,12 @@
   "mapperbase:recipes/mapperbase_group/flatter_hammer": {
     "criteria": {
       "has_stick": "2020-12-23 23:26:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2021-02-13 10:04:25 +0800"
     },
     "done": true
   },
@@ -6030,6 +6096,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_silver_to_storage_silver": {
     "criteria": {
       "has_ingot_silver": "2021-01-02 18:23:42 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_item": "2021-02-13 17:36:10 +0800"
     },
     "done": true
   },
@@ -6899,6 +6971,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "has_item": "2021-02-13 16:32:53 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_silver_hammering": {
     "criteria": {
       "has_silver_ingot": "2021-01-02 18:23:42 +0800"
@@ -7460,6 +7538,12 @@
   "wyrmroost:recipes/wyrmroost/cooked_lowtier_meat_from_smoking": {
     "criteria": {
       "has_raw_lowtier_meat": "2021-01-03 17:26:32 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_spruce": {
+    "criteria": {
+      "has_plank": "2021-02-13 10:03:36 +0800"
     },
     "done": true
   },
@@ -8133,6 +8217,7 @@
     "criteria": {
       "textures/entity/cat/black.png": "2021-01-03 13:49:28 +0800",
       "textures/entity/cat/siamese.png": "2021-01-03 01:18:20 +0800",
+      "textures/entity/cat/ragdoll.png": "2021-02-13 11:50:50 +0800",
       "textures/entity/cat/british_shorthair.png": "2021-01-03 10:45:17 +0800",
       "textures/entity/cat/persian.png": "2021-01-06 00:18:48 +0800"
     },
