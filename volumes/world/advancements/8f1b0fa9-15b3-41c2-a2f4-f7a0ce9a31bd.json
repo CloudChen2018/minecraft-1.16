@@ -1283,6 +1283,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_plank": "2021-02-16 12:00:23 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/armor_steel_head": {
     "criteria": {
       "has_steel_plate": "2021-01-08 00:01:58 +0800"
@@ -3127,6 +3133,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutter_base_light_blue": {
+    "criteria": {
+      "has_planks": "2021-02-16 14:35:09 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-31 00:08:12 +0800"
@@ -3991,6 +4003,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candelabra": {
+    "criteria": {
+      "has_item": "2021-02-16 12:00:23 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2021-01-16 15:55:03 +0800"
@@ -4012,6 +4030,12 @@
   "wyrmroost:recipes/wyrmroost/red_geode_sword": {
     "criteria": {
       "has_material": "2021-01-12 00:05:48 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_middle_light_blue": {
+    "criteria": {
+      "has_planks": "2021-02-16 14:35:09 +0800"
     },
     "done": true
   },
@@ -4501,6 +4525,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutter_top_light_blue": {
+    "criteria": {
+      "has_planks": "2021-02-16 14:35:09 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-03 01:36:03 +0800"
@@ -4545,6 +4575,7 @@
       "minecraft:magma_cube": "2021-02-10 22:21:09 +0800",
       "minecraft:spider": "2020-12-25 23:04:04 +0800",
       "minecraft:creeper": "2021-01-14 01:39:55 +0800",
+      "minecraft:slime": "2021-02-16 12:43:07 +0800",
       "minecraft:phantom": "2020-12-27 23:43:01 +0800",
       "minecraft:witch": "2021-02-10 16:27:56 +0800",
       "minecraft:wither_skeleton": "2021-02-02 00:33:28 +0800",
@@ -6408,6 +6439,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutter_bot_light_blue": {
+    "criteria": {
+      "has_planks": "2021-02-16 14:35:09 +0800"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/stone_fillet_knife": {
     "criteria": {
       "has_items": "2020-12-23 23:27:00 +0800"
@@ -7443,6 +7480,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/light_engineering": {
     "criteria": {
       "has_copper_ingot": "2021-01-08 00:02:57 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_item": "2021-02-16 12:00:23 +0800"
     },
     "done": true
   },
