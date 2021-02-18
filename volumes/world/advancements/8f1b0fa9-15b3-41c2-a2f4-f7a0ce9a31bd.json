@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-17 22:33:16 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/minecart_metalbarrel": {
     "criteria": {
       "has_minecart": "2021-01-23 22:30:50 +0800"
@@ -386,6 +392,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-12-23 23:29:39 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/tile_log_birch": {
+    "criteria": {
+      "has_planks": "2021-02-17 22:33:16 +0800"
     },
     "done": true
   },
@@ -686,6 +698,12 @@
   "greekfantasy:effect_petrified": {
     "criteria": {
       "petrified_effect": "2020-12-25 23:04:51 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holder": {
+    "criteria": {
+      "has_item": "2021-02-17 22:14:16 +0800"
     },
     "done": true
   },
@@ -1529,6 +1547,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_paper": {
+    "criteria": {
+      "has_planks": "2021-02-17 22:33:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2020-12-23 23:27:00 +0800"
@@ -1787,6 +1811,12 @@
   "mcwdoors:recipes/birch/birch_modern_door": {
     "criteria": {
       "has_planks": "2021-01-31 21:44:26 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak_planks_roof": {
+    "criteria": {
+      "has_planks": "2021-02-17 22:33:23 +0800"
     },
     "done": true
   },
@@ -2267,6 +2297,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/oak_planks_four_way_roof": {
+    "criteria": {
+      "has_planks": "2021-02-17 22:33:23 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-12-24 00:01:30 +0800"
@@ -2318,6 +2354,12 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-03 01:36:03 +0800"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-17 22:33:16 +0800"
     },
     "done": true
   },
@@ -2731,6 +2773,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/oak_planks_cube_roof": {
+    "criteria": {
+      "has_planks": "2021-02-17 22:33:23 +0800"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/steel_nugget_from_recycling": {
     "criteria": {
       "has_iron_nugget": "2020-12-27 22:53:46 +0800"
@@ -2758,6 +2806,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-03 01:36:03 +0800"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-17 22:33:16 +0800"
     },
     "done": true
   },
@@ -2824,6 +2878,12 @@
   "roadstuff:recipes/roadstuff_group/paint_brush": {
     "criteria": {
       "has_wool": "2021-01-01 22:46:04 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak_planks_lower_roof": {
+    "criteria": {
+      "has_planks": "2021-02-17 22:33:23 +0800"
     },
     "done": true
   },
@@ -3358,6 +3418,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2020-12-23 23:48:31 +0800"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-17 22:33:16 +0800"
     },
     "done": true
   },
@@ -4387,6 +4453,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/tile_planks_birch": {
+    "criteria": {
+      "has_planks": "2021-02-17 22:33:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-12-24 00:43:30 +0800"
@@ -4438,6 +4510,12 @@
   "mcwdoors:recipes/birch/birch_japanese2_door": {
     "criteria": {
       "has_planks": "2021-01-31 21:44:26 +0800"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_strange_tablet": {
+    "criteria": {
+      "has_ingredient": "2021-02-18 22:08:59 +0800"
     },
     "done": true
   },
@@ -4652,6 +4730,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/clock_block": {
+    "criteria": {
+      "has_item": "2021-02-17 23:06:30 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-12-31 00:13:55 +0800"
@@ -4703,6 +4787,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/stick_treated": {
     "criteria": {
       "has_treated_planks": "2021-01-07 22:37:22 +0800"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-17 22:33:16 +0800"
     },
     "done": true
   },
@@ -4799,6 +4889,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_hv_relay": {
     "criteria": {
       "has_aluminum_ingot": "2020-12-24 00:01:30 +0800"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-17 22:33:16 +0800"
     },
     "done": true
   },
@@ -5324,6 +5420,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-17 22:33:16 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_nickel_to_storage_nickel": {
     "criteria": {
       "has_ingot_nickel": "2021-01-08 00:42:41 +0800"
@@ -5607,6 +5709,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-17 22:33:16 +0800"
+    },
+    "done": true
+  },
   "wyrmroost:recipes/wyrmroost/red_geode_block": {
     "criteria": {
       "has_red_geode": "2021-01-12 00:05:48 +0800"
@@ -5745,6 +5853,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/tesla_coil": {
+    "criteria": {
+      "has_capacitor_hv": "2021-02-18 21:53:15 +0800"
+    },
+    "done": true
+  },
   "wyrmroost:recipes/wyrmroost/blue_geode_leggings": {
     "criteria": {
       "has_material": "2021-01-03 16:19:55 +0800"
@@ -5856,6 +5970,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2021-01-16 15:57:20 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak_planks_attic_roof": {
+    "criteria": {
+      "has_planks": "2021-02-17 22:33:23 +0800"
     },
     "done": true
   },
@@ -6205,9 +6325,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/oak_planks_three_way_roof": {
+    "criteria": {
+      "has_planks": "2021-02-17 22:33:23 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2021-01-03 16:23:37 +0800"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-17 22:33:16 +0800"
     },
     "done": true
   },
@@ -6445,6 +6577,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/planter": {
+    "criteria": {
+      "has_item": "2021-02-17 22:30:48 +0800"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/stone_fillet_knife": {
     "criteria": {
       "has_items": "2020-12-23 23:27:00 +0800"
@@ -6679,6 +6817,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/oak_planks_steep_roof": {
+    "criteria": {
+      "has_planks": "2021-02-17 22:33:23 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-12-31 00:08:12 +0800"
@@ -6910,6 +7054,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2021-02-02 00:03:08 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak_planks_top_roof": {
+    "criteria": {
+      "has_planks": "2021-02-17 22:33:23 +0800"
     },
     "done": true
   },
@@ -7573,6 +7723,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_strange_tablet": {
+    "criteria": {
+      "has_strange_tablet": "2021-02-18 22:08:59 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-03 01:36:03 +0800"
@@ -7726,6 +7882,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/reinforced_crate": {
     "criteria": {
       "has_treated_planks": "2021-01-07 22:37:22 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/railgun": {
+    "criteria": {
+      "has_capacitor_hv": "2021-02-18 21:53:15 +0800"
     },
     "done": true
   },
