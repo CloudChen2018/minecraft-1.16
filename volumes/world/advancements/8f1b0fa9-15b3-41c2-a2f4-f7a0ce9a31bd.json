@@ -4124,6 +4124,12 @@
     },
     "done": true
   },
+  "productivebees:husbandry/bee_cage/quartz_nest/catch_crystalline_bee/breed_iron_bee": {
+    "criteria": {
+      "iron_bee": "2021-02-21 22:21:49 +0800"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/oak/oak_glass_door": {
     "criteria": {
       "has_planks": "2021-01-29 23:14:58 +0800"
@@ -6457,6 +6463,9 @@
   },
   "productivebees:husbandry/bee_cage/quartz_nest/catch_crystalline_bee/breed_iron_bee/breed_all_productive_bees": {
     "criteria": {
+      "rancher_bee": "2021-02-21 22:43:27 +0800",
+      "farmer_bee": "2021-02-21 23:35:28 +0800",
+      "iron_bee": "2021-02-21 22:21:49 +0800",
       "lumber_bee": "2021-02-13 23:07:04 +0800"
     },
     "done": false

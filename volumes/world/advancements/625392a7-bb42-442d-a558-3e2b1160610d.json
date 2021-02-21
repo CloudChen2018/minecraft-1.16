@@ -6947,6 +6947,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/planter": {
+    "criteria": {
+      "has_item": "2021-02-21 17:30:59 +0800"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/stone_fillet_knife": {
     "criteria": {
       "has_items": "2020-12-23 23:45:27 +0800"
@@ -8274,6 +8280,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2020-12-28 22:46:12 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/mb_silo": {
+    "criteria": {
+      "silo": "2021-02-21 22:10:29 +0800"
     },
     "done": true
   },
