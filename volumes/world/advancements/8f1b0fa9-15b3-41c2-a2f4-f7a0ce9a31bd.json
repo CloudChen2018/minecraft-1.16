@@ -941,6 +941,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2021-02-22 22:25:45 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-31 00:08:12 +0800"
@@ -1220,6 +1226,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_nickel_to_ingot_nickel": {
     "criteria": {
       "has_storage_nickel": "2021-01-08 00:42:41 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_aluminum_to_slab": {
+    "criteria": {
+      "has_storage_aluminum": "2021-02-22 23:45:49 +0800"
     },
     "done": true
   },
@@ -2864,6 +2876,12 @@
     },
     "done": true
   },
+  "productivebees:recipes/decorations/honey_treat": {
+    "criteria": {
+      "has_the_recipe": "2021-02-22 20:41:11 +0800"
+    },
+    "done": true
+  },
   "productivebees:recipes/decorations/advanced_oak_beehive": {
     "criteria": {
       "has_beehive": "2020-12-27 23:55:57 +0800"
@@ -2933,6 +2951,12 @@
   "usefulbackpacks:recipes/backpack_medium": {
     "criteria": {
       "has_small_backpack": "2021-01-03 19:29:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2021-02-23 00:27:24 +0800"
     },
     "done": true
   },
@@ -3734,6 +3758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2021-02-22 22:09:37 +0800"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "sword": "2021-02-10 01:20:15 +0800"
@@ -4505,6 +4535,12 @@
   "mcwroofs:recipes/tile_planks_birch": {
     "criteria": {
       "has_planks": "2021-02-17 22:33:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2021-02-22 20:56:44 +0800"
     },
     "done": true
   },
@@ -6463,9 +6499,11 @@
   },
   "productivebees:husbandry/bee_cage/quartz_nest/catch_crystalline_bee/breed_iron_bee/breed_all_productive_bees": {
     "criteria": {
+      "redstone_bee": "2021-02-22 20:51:47 +0800",
       "rancher_bee": "2021-02-21 22:43:27 +0800",
       "farmer_bee": "2021-02-21 23:35:28 +0800",
       "iron_bee": "2021-02-21 22:21:49 +0800",
+      "lapis_bee": "2021-02-22 23:35:31 +0800",
       "lumber_bee": "2021-02-13 23:07:04 +0800"
     },
     "done": false
@@ -7214,6 +7252,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_aluminum_from_slab": {
+    "criteria": {
+      "has_storage_aluminum": "2021-02-22 23:45:49 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-12-28 00:24:26 +0800"
@@ -7487,6 +7531,12 @@
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2021-02-02 00:17:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2021-02-22 22:09:37 +0800"
     },
     "done": true
   },

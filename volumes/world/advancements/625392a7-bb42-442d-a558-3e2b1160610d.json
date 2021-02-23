@@ -3039,6 +3039,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2021-02-22 23:45:42 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2020-12-24 00:05:37 +0800"
@@ -4362,6 +4368,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2020-12-25 23:43:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2021-02-23 00:03:25 +0800"
     },
     "done": true
   },
@@ -6767,6 +6779,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/mb_improvedblastfurnace": {
+    "criteria": {
+      "improvedblastfurnace": "2021-02-22 22:42:58 +0800"
+    },
+    "done": true
+  },
   "roadstuff:recipes/roadstuff_group/black_traffic_cone": {
     "criteria": {
       "has_bitumen": "2020-12-28 00:49:28 +0800"
@@ -8120,6 +8138,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2020-12-27 23:11:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2021-02-23 00:03:25 +0800"
     },
     "done": true
   },
