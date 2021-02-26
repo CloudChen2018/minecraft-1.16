@@ -647,6 +647,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_covered": {
+    "criteria": {
+      "has_vertical_conveyor": "2021-02-25 20:51:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2020-12-24 22:41:30 +0800"
@@ -908,6 +914,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2020-12-31 00:08:37 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_droppercovered": {
+    "criteria": {
+      "has_the_recipe": "2021-02-25 20:55:29 +0800"
     },
     "done": true
   },
@@ -2882,6 +2894,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutter_middle_purple": {
+    "criteria": {
+      "has_planks": "2021-02-25 23:18:58 +0800"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
     "criteria": {
       "has_planks": "2021-02-17 22:33:16 +0800"
@@ -2900,15 +2918,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
-    "criteria": {
-      "has_smooth_sandstone": "2021-02-24 23:14:22 +0800"
-    },
-    "done": true
-  },
   "mapperbase:recipes/mapperbase_group/steel_rod_from_blasting": {
     "criteria": {
       "has_iron_rod": "2021-02-24 22:05:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2021-02-24 23:14:22 +0800"
     },
     "done": true
   },
@@ -3071,6 +3089,12 @@
   "outvoted:obtain_inferno_piece": {
     "criteria": {
       "inferno_piece": "2021-02-10 22:17:55 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_extractcovered": {
+    "criteria": {
+      "has_vertical_conveyor": "2021-02-25 20:52:53 +0800"
     },
     "done": true
   },
@@ -3302,6 +3326,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_verticalcovered": {
+    "criteria": {
+      "has_vertical_conveyor": "2021-02-25 22:09:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-31 00:08:12 +0800"
@@ -3323,6 +3353,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/alloybrick_to_slab": {
     "criteria": {
       "has_alloybrick": "2021-02-09 01:04:57 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_dropper": {
+    "criteria": {
+      "has_conveyor": "2021-02-25 20:51:05 +0800"
     },
     "done": true
   },
@@ -3479,6 +3515,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2021-01-03 16:23:37 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_vertical": {
+    "criteria": {
+      "has_conveyor": "2021-02-25 20:51:05 +0800"
     },
     "done": true
   },
@@ -4091,6 +4133,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-31 00:08:12 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/item_batcher": {
+    "criteria": {
+      "has_conveyor_basic": "2021-02-25 20:51:05 +0800"
     },
     "done": true
   },
@@ -4989,6 +5037,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_redstone": {
+    "criteria": {
+      "has_conveyor": "2021-02-25 20:51:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-01-11 23:43:00 +0800"
@@ -5517,6 +5571,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutter_bot_purple": {
+    "criteria": {
+      "has_planks": "2021-02-25 23:18:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_the_recipe": "2021-01-03 21:58:56 +0800"
@@ -5526,6 +5586,12 @@
   "minecraft:recipes/mapperbase_group/asphalt_stairs_from_asphalt_stonecutting": {
     "criteria": {
       "has_asphalt": "2021-02-09 23:15:21 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_base_purple": {
+    "criteria": {
+      "has_planks": "2021-02-25 23:18:58 +0800"
     },
     "done": true
   },
@@ -5802,6 +5868,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_splitter": {
+    "criteria": {
+      "has_conveyor": "2021-02-25 20:51:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2020-12-24 00:01:30 +0800"
@@ -5904,6 +5976,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/place_conveyor": {
+    "criteria": {
+      "extractcovered": "2021-02-25 20:57:04 +0800"
+    },
+    "done": true
+  },
   "supplementaries:recipes/speaker_block": {
     "criteria": {
       "has_item": "2021-02-12 21:53:48 +0800"
@@ -5931,6 +6009,12 @@
   "wyrmroost:recipes/wyrmroost/red_geode_block": {
     "criteria": {
       "has_red_geode": "2021-01-12 00:05:48 +0800"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/bee_cage/professional_bee/feeding_slab": {
+    "criteria": {
+      "get_item": "2021-02-26 00:14:25 +0800"
     },
     "done": true
   },
@@ -7023,6 +7107,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutter_top_purple": {
+    "criteria": {
+      "has_planks": "2021-02-25 23:18:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2021-02-01 22:41:39 +0800"
@@ -7170,6 +7260,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2020-12-30 23:29:01 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sorter": {
+    "criteria": {
+      "has_conveyor_basic": "2021-02-25 20:51:05 +0800"
     },
     "done": true
   },
@@ -7686,6 +7782,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2020-12-23 23:26:22 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_extract": {
+    "criteria": {
+      "has_conveyor": "2021-02-25 20:51:05 +0800"
     },
     "done": true
   },

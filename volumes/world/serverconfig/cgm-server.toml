@@ -5,21 +5,21 @@
 
 	#Stun Grenade related properties
 	[server.grenade]
-		#After the duration drops to this many ticks, the transparency of the overlay when blinded will gradually fade to 0 alpha.
-		#Range: 0 ~ 255
-		alphaOverlay = 255
-		#Transparency of the overlay when blinded will be this alpha value, before eventually fading to 0 alpha.
-		#Range: > 0
-		alphaFadeThreshold = 40
-		#Volume of most game sounds when deafened will play at this percent, before eventually fading back to %100.
-		#Range: 0.0 ~ 1.0
-		soundPercentage = 0.05
-		#After the duration drops to this many ticks, the ringing volume will gradually fade to 0 and other sound volumes will fade back to %100.
-		#Range: > 0
-		soundFadeThreshold = 90
 		#Volume of the ringing sound when deafened will play at this volume, before eventually fading to 0.
 		#Range: 0.0 ~ 1.0
 		ringVolume = 1.0
+		#Transparency of the overlay when blinded will be this alpha value, before eventually fading to 0 alpha.
+		#Range: > 0
+		alphaFadeThreshold = 40
+		#After the duration drops to this many ticks, the transparency of the overlay when blinded will gradually fade to 0 alpha.
+		#Range: 0 ~ 255
+		alphaOverlay = 255
+		#After the duration drops to this many ticks, the ringing volume will gradually fade to 0 and other sound volumes will fade back to %100.
+		#Range: > 0
+		soundFadeThreshold = 90
+		#Volume of most game sounds when deafened will play at this percent, before eventually fading back to %100.
+		#Range: 0.0 ~ 1.0
+		soundPercentage = 0.05
 
 	#Audio properties
 	[server.audio]
