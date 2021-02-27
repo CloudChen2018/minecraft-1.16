@@ -485,6 +485,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/gunpowder_from_dusts": {
+    "criteria": {
+      "has_sulfur": "2021-02-27 21:39:21 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2021-01-23 12:55:39 +0800"
@@ -578,6 +584,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/toolupgrade_revolver_magazine": {
     "criteria": {
       "has_revolver": "2021-01-03 15:11:48 +0800"
+    },
+    "done": true
+  },
+  "cgm:recipes/workbench": {
+    "criteria": {
+      "has_iron": "2021-02-27 10:20:01 +0800"
     },
     "done": true
   },
@@ -7103,6 +7115,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/building_blocks/planks_from_driftwood": {
+    "criteria": {
+      "has_items": "2021-02-27 14:09:56 +0800"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sack": {
     "criteria": {
       "has_item": "2021-02-12 23:46:11 +0800"
@@ -7766,6 +7784,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2020-12-23 23:25:39 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/mb_excavator": {
+    "criteria": {
+      "excavator": "2021-02-27 16:52:15 +0800"
     },
     "done": true
   },
