@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/piston_launcher": {
+    "criteria": {
+      "has_item": "2021-03-01 10:30:59 +0800"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2020-12-23 23:23:44 +0800"
@@ -3023,6 +3029,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2020-12-25 01:10:36 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lock_block": {
+    "criteria": {
+      "has_plank": "2021-03-01 10:10:13 +0800"
     },
     "done": true
   },
@@ -5937,6 +5949,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/concrete_slab_from_concrete_stonecutting": {
     "criteria": {
       "has_concrete": "2021-01-26 21:04:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2021-03-01 13:56:07 +0800"
     },
     "done": true
   },
