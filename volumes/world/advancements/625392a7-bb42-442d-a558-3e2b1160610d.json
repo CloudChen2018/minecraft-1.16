@@ -1,4 +1,10 @@
 {
+  "mcwroofs:recipes/gutter_top_blue": {
+    "criteria": {
+      "has_planks": "2021-03-02 22:12:37 +0800"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/steel_shovel": {
     "criteria": {
       "has_steel_ingot": "2020-12-25 22:45:18 +0800"
@@ -362,6 +368,12 @@
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2021-02-12 10:53:57 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/mb_metalpress": {
+    "criteria": {
+      "metalpress": "2021-03-02 22:10:33 +0800"
     },
     "done": true
   },
@@ -2532,6 +2544,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutter_bot_blue": {
+    "criteria": {
+      "has_planks": "2021-03-02 22:12:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-24 00:20:30 +0800"
@@ -2613,6 +2631,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2020-12-25 22:45:47 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_middle_blue": {
+    "criteria": {
+      "has_planks": "2021-03-02 22:12:37 +0800"
     },
     "done": true
   },
@@ -6300,6 +6324,12 @@
   "wyrmroost:recipes/wyrmroost/platinum_block": {
     "criteria": {
       "has_platinum": "2021-01-02 18:04:30 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_base_blue": {
+    "criteria": {
+      "has_planks": "2021-03-02 22:12:37 +0800"
     },
     "done": true
   },

@@ -1115,6 +1115,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutter_top_pink": {
+    "criteria": {
+      "has_planks": "2021-03-02 20:55:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2020-12-31 00:08:12 +0800"
@@ -1262,6 +1268,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
     "criteria": {
       "has_planks": "2021-02-01 22:41:31 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/copper_lantern": {
+    "criteria": {
+      "has_item": "2021-03-02 22:35:15 +0800"
     },
     "done": true
   },
@@ -1562,6 +1574,12 @@
   "productivebees:husbandry/advanced_beehive": {
     "criteria": {
       "get_hive": "2021-01-21 21:30:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2021-03-02 22:35:15 +0800"
     },
     "done": true
   },
@@ -4466,6 +4484,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutter_middle_pink": {
+    "criteria": {
+      "has_planks": "2021-03-02 20:55:44 +0800"
+    },
+    "done": true
+  },
   "littlemaidrebirth:recipes/littlemaidrebirth.common/iff_copy_book": {
     "criteria": {
       "sugar": "2021-01-29 23:14:58 +0800"
@@ -4685,6 +4709,12 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_double_plant": "2021-02-22 20:56:44 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake": {
+    "criteria": {
+      "has_plank": "2021-03-02 21:23:13 +0800"
     },
     "done": true
   },
@@ -4914,6 +4944,12 @@
   "mcwbridges:recipes/rope_birch_bridge_end": {
     "criteria": {
       "has_planks": "2021-01-31 21:44:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2021-03-02 22:35:15 +0800"
     },
     "done": true
   },
@@ -5328,6 +5364,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2020-12-24 00:34:13 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_bot_pink": {
+    "criteria": {
+      "has_planks": "2021-03-02 20:55:44 +0800"
     },
     "done": true
   },
@@ -6216,6 +6258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2021-03-02 22:35:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2021-01-12 19:55:03 +0800"
@@ -6789,6 +6837,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/constantan_mix": {
     "criteria": {
       "has_nickel_dust": "2021-01-03 17:05:26 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_base_pink": {
+    "criteria": {
+      "has_planks": "2021-03-02 20:55:44 +0800"
     },
     "done": true
   },
