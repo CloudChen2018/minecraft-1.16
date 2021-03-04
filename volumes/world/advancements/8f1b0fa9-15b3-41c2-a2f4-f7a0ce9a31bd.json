@@ -3938,6 +3938,12 @@
     },
     "done": true
   },
+  "mapperbase:recipes/mapperbase_group/steel_wall": {
+    "criteria": {
+      "has_steel_block": "2021-03-04 20:39:34 +0800"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/gutter_base_magenta": {
     "criteria": {
       "has_planks": "2021-02-04 01:01:47 +0800"
@@ -4562,6 +4568,12 @@
     },
     "done": true
   },
+  "mapperbase:recipes/mapperbase_group/steel_slab": {
+    "criteria": {
+      "has_steel_block": "2021-03-04 20:39:34 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/mapperbase_group/asphalt_pressure_plate_from_asphalt_stonecutting": {
     "criteria": {
       "has_asphalt": "2021-02-09 23:15:21 +0800"
@@ -5139,6 +5151,12 @@
     },
     "done": true
   },
+  "mapperbase:recipes/mapperbase_group/steel_ingot_from_block": {
+    "criteria": {
+      "has_steel_block": "2021-03-04 20:39:34 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2020-12-23 23:26:22 +0800"
@@ -5202,6 +5220,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-12-31 00:13:55 +0800"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_stairs": {
+    "criteria": {
+      "has_steel_block": "2021-03-04 20:39:34 +0800"
     },
     "done": true
   },
@@ -6717,6 +6741,12 @@
   "mcwroofs:recipes/oak_planks_three_way_roof": {
     "criteria": {
       "has_planks": "2021-02-17 22:33:23 +0800"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_pressure_plate": {
+    "criteria": {
+      "has_steel_block": "2021-03-04 20:39:34 +0800"
     },
     "done": true
   },
