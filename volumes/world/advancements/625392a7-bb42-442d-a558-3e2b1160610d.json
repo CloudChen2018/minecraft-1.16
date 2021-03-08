@@ -3771,6 +3771,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/checkerboard_block": {
+    "criteria": {
+      "has_plank": "2021-03-08 23:39:29 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:main/craft_hammer": {
     "criteria": {
       "hammer": "2020-12-25 22:43:41 +0800"
