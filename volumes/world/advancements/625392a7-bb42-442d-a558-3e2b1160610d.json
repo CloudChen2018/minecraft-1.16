@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/piston_launcher": {
+    "criteria": {
+      "has_item": "2021-03-11 00:07:34 +0800"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2020-12-23 23:14:41 +0800"
