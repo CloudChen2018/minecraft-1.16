@@ -1259,6 +1259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2021-03-14 22:08:30 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2020-12-25 23:42:21 +0800"
@@ -3777,12 +3783,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/checkerboard_block": {
-    "criteria": {
-      "has_plank": "2021-03-08 23:39:29 +0800"
-    },
-    "done": true
-  },
   "immersiveengineering:main/craft_hammer": {
     "criteria": {
       "hammer": "2020-12-25 22:43:41 +0800"
@@ -6025,6 +6025,7 @@
       "minecraft:birch_forest": "2021-01-03 16:58:15 +0800",
       "minecraft:jungle_hills": "2021-01-27 23:53:01 +0800",
       "minecraft:deep_lukewarm_ocean": "2021-02-12 09:21:31 +0800",
+      "minecraft:badlands": "2021-03-14 21:54:10 +0800",
       "minecraft:beach": "2020-12-23 23:14:58 +0800",
       "minecraft:dark_forest": "2021-01-03 17:15:55 +0800",
       "minecraft:river": "2020-12-23 23:15:38 +0800",
@@ -6776,6 +6777,7 @@
       "bread": "2020-12-25 01:03:41 +0800",
       "melon_slice": "2021-02-11 14:43:37 +0800",
       "beetroot": "2021-01-24 21:23:43 +0800",
+      "cooked_chicken": "2021-03-15 00:17:39 +0800",
       "cooked_salmon": "2021-01-03 10:50:04 +0800",
       "carrot": "2021-03-01 19:22:02 +0800"
     },

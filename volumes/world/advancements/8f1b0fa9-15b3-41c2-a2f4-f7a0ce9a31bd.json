@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2021-03-14 23:03:18 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/minecart_metalbarrel": {
     "criteria": {
       "has_minecart": "2021-01-23 22:30:50 +0800"
@@ -983,6 +989,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pulley_block": {
+    "criteria": {
+      "has_plank": "2021-03-13 13:36:44 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_copper_to_ingot_copper": {
     "criteria": {
       "has_storage_copper": "2021-01-08 00:02:57 +0800"
@@ -1112,6 +1124,12 @@
   "minecraft:recipes/decorations/purple_bed": {
     "criteria": {
       "has_purple_wool": "2021-03-08 22:23:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2021-03-13 16:43:03 +0800"
     },
     "done": true
   },
@@ -1454,6 +1472,12 @@
   "wyrmroost:recipes/wyrmroost/cooked_apex_meat_from_smoking": {
     "criteria": {
       "has_raw_apex_meat": "2021-03-11 22:23:07 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2021-03-13 18:52:35 +0800"
     },
     "done": true
   },
@@ -2598,6 +2622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2021-03-13 19:13:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2020-12-24 00:01:30 +0800"
@@ -2738,6 +2768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2021-03-13 19:12:07 +0800"
+    },
+    "done": true
+  },
   "supplementaries:recipes/faucet": {
     "criteria": {
       "has_item": "2021-02-12 21:53:48 +0800"
@@ -2822,6 +2858,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/mb_dieselgen": {
+    "criteria": {
+      "dieselgenerator": "2021-03-14 16:29:31 +0800"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
     "criteria": {
       "has_planks": "2021-02-01 22:41:31 +0800"
@@ -2873,6 +2915,12 @@
   "roadstuff:recipes/roadstuff_group/yellow_traffic_cone": {
     "criteria": {
       "has_bitumen": "2021-01-01 20:46:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2021-03-13 16:43:03 +0800"
     },
     "done": true
   },
@@ -2957,6 +3005,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-03 01:36:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2021-03-13 20:09:24 +0800"
     },
     "done": true
   },
@@ -3548,6 +3602,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_plank": "2021-03-13 15:43:06 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2021-01-01 20:57:10 +0800"
@@ -3575,6 +3635,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_copper": {
     "criteria": {
       "has_copper_ingot": "2021-01-08 00:02:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2021-03-13 16:43:03 +0800"
     },
     "done": true
   },
@@ -3821,6 +3887,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2020-12-24 00:31:41 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2021-03-13 18:38:57 +0800"
     },
     "done": true
   },
@@ -4304,6 +4376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2021-03-13 19:42:43 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-12-23 23:26:52 +0800"
@@ -4670,6 +4748,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_splittercovered": {
+    "criteria": {
+      "has_vertical_conveyor": "2021-03-14 18:20:17 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bullets": {
     "criteria": {
       "has_paper": "2021-01-03 21:59:02 +0800"
@@ -4703,6 +4787,12 @@
   "immersiveengineering:recipes/misc/crafting/iron_ingot_from_dust": {
     "criteria": {
       "has_dust_iron": "2021-01-03 17:05:26 +0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2021-03-13 18:51:39 +0800"
     },
     "done": true
   },
@@ -5955,21 +6045,30 @@
       "minecraft:taiga": "2021-01-23 20:11:02 +0800",
       "minecraft:desert_hills": "2021-02-13 16:37:14 +0800",
       "minecraft:giant_tree_taiga": "2021-03-08 20:29:39 +0800",
+      "minecraft:deep_cold_ocean": "2021-03-13 16:38:29 +0800",
       "minecraft:snowy_tundra": "2021-01-30 17:31:31 +0800",
       "minecraft:taiga_hills": "2021-02-13 19:03:47 +0800",
       "minecraft:desert": "2021-02-13 16:36:42 +0800",
       "minecraft:frozen_river": "2021-01-30 20:20:35 +0800",
+      "minecraft:deep_frozen_ocean": "2021-03-13 16:32:21 +0800",
       "minecraft:jungle": "2021-02-20 00:14:49 +0800",
       "minecraft:birch_forest": "2020-12-25 00:38:50 +0800",
+      "minecraft:snowy_beach": "2021-03-13 16:38:58 +0800",
+      "minecraft:warm_ocean": "2021-03-13 17:57:58 +0800",
+      "minecraft:badlands": "2021-03-13 18:56:54 +0800",
       "minecraft:savanna_plateau": "2021-02-13 17:08:39 +0800",
       "minecraft:beach": "2020-12-23 23:24:12 +0800",
       "minecraft:river": "2020-12-24 00:02:24 +0800",
+      "minecraft:lukewarm_ocean": "2021-03-13 17:20:04 +0800",
       "minecraft:snowy_taiga": "2021-01-30 20:20:36 +0800",
       "minecraft:birch_forest_hills": "2020-12-25 00:48:05 +0800",
       "minecraft:wooded_mountains": "2021-03-08 20:07:24 +0800",
       "minecraft:wooded_hills": "2020-12-23 23:23:44 +0800",
       "minecraft:giant_tree_taiga_hills": "2021-03-08 20:34:38 +0800",
+      "minecraft:stone_shore": "2021-03-13 17:57:37 +0800",
+      "minecraft:wooded_badlands_plateau": "2021-03-13 19:08:11 +0800",
       "minecraft:swamp": "2020-12-25 00:30:23 +0800",
+      "minecraft:snowy_taiga_hills": "2021-03-13 16:56:26 +0800",
       "minecraft:savanna": "2021-02-13 17:02:18 +0800",
       "minecraft:plains": "2020-12-23 23:24:39 +0800"
     },
@@ -6776,6 +6875,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_plank": "2021-03-13 15:43:06 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2020-12-23 23:27:00 +0800"
@@ -7317,12 +7422,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/crimson_lantern": {
-    "criteria": {
-      "has_plank": "2021-02-12 22:30:42 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-12-31 00:13:55 +0800"
@@ -7608,6 +7707,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2021-02-02 00:03:08 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_item": "2021-03-14 14:17:40 +0800"
     },
     "done": true
   },
