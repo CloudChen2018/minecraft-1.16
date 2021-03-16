@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutter_middle_yellow": {
+    "criteria": {
+      "has_planks": "2021-03-16 23:43:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2021-02-04 00:11:39 +0800"
@@ -1181,6 +1187,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutter_bot_yellow": {
+    "criteria": {
+      "has_planks": "2021-03-16 23:43:26 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_electrum": {
     "criteria": {
       "has_electrum_ingot": "2021-02-03 22:59:22 +0800"
@@ -1953,6 +1965,12 @@
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2020-12-28 00:46:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2021-03-16 23:43:26 +0800"
     },
     "done": true
   },
@@ -4074,6 +4092,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_green": {
     "criteria": {
       "has_sheetmetal": "2020-12-29 00:09:50 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_top_yellow": {
+    "criteria": {
+      "has_planks": "2021-03-16 23:43:26 +0800"
     },
     "done": true
   },
@@ -7745,6 +7769,12 @@
   "mcwdoors:recipes/oak/oak_stable_door": {
     "criteria": {
       "has_planks": "2021-02-07 11:21:21 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_base_yellow": {
+    "criteria": {
+      "has_planks": "2021-03-16 23:43:26 +0800"
     },
     "done": true
   },

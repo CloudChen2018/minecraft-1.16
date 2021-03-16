@@ -2658,6 +2658,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutter_base_green": {
+    "criteria": {
+      "has_planks": "2021-03-15 23:32:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2020-12-23 23:26:22 +0800"
@@ -2849,6 +2855,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-23 23:29:39 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_top_green": {
+    "criteria": {
+      "has_planks": "2021-03-15 23:32:47 +0800"
     },
     "done": true
   },
@@ -5105,6 +5117,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2021-03-15 23:20:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2021-03-02 22:35:15 +0800"
@@ -6158,6 +6176,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/gutter_middle_green": {
+    "criteria": {
+      "has_planks": "2021-03-15 23:32:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2020-12-28 00:17:58 +0800"
@@ -7059,6 +7083,12 @@
   "mcwroofs:recipes/gutter_base_pink": {
     "criteria": {
       "has_planks": "2021-03-02 20:55:44 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutter_bot_green": {
+    "criteria": {
+      "has_planks": "2021-03-15 23:32:47 +0800"
     },
     "done": true
   },
@@ -8481,6 +8511,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/workbench": {
     "criteria": {
       "has_treated_planks": "2021-01-07 22:37:22 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alu_post": {
+    "criteria": {
+      "has_alu_fence": "2021-03-15 22:14:16 +0800"
     },
     "done": true
   },
