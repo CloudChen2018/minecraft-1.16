@@ -1893,6 +1893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2021-03-21 19:11:13 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/revolver": {
     "criteria": {
       "has_wooden_grip": "2021-01-03 15:06:18 +0800"
@@ -3585,6 +3591,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_plank": "2021-03-21 21:40:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2020-12-25 22:45:47 +0800"
@@ -4809,6 +4821,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2021-03-21 19:11:12 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-03 13:23:22 +0800"
@@ -5895,6 +5913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2021-03-21 19:11:13 +0800"
+    },
+    "done": true
+  },
   "mapperbase:recipes/mapperbase_group/steel_axe": {
     "criteria": {
       "has_steel_ingot": "2020-12-25 22:45:18 +0800"
@@ -6048,6 +6072,7 @@
       "minecraft:jungle": "2021-01-27 23:41:20 +0800",
       "minecraft:birch_forest": "2021-01-03 16:58:15 +0800",
       "minecraft:jungle_hills": "2021-01-27 23:53:01 +0800",
+      "minecraft:warm_ocean": "2021-03-21 19:12:36 +0800",
       "minecraft:deep_lukewarm_ocean": "2021-02-12 09:21:31 +0800",
       "minecraft:badlands": "2021-03-14 21:54:10 +0800",
       "minecraft:beach": "2020-12-23 23:14:58 +0800",
@@ -6058,6 +6083,7 @@
       "minecraft:birch_forest_hills": "2021-01-03 17:00:49 +0800",
       "minecraft:wooded_mountains": "2021-01-13 00:04:20 +0800",
       "minecraft:wooded_hills": "2020-12-23 23:14:41 +0800",
+      "minecraft:wooded_badlands_plateau": "2021-03-21 19:01:21 +0800",
       "minecraft:swamp": "2020-12-25 21:50:00 +0800",
       "minecraft:snowy_taiga_hills": "2021-02-03 00:28:05 +0800",
       "minecraft:plains": "2020-12-23 23:15:08 +0800"
@@ -6610,6 +6636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2021-03-21 19:11:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2021-01-03 00:30:24 +0800"
@@ -6875,6 +6907,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/chute_aluminum": {
     "criteria": {
       "has_plate": "2021-02-12 19:25:00 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_plank": "2021-03-21 21:40:05 +0800"
     },
     "done": true
   },
@@ -7595,6 +7633,12 @@
   "immersiveengineering:main/mb_arcfurnace": {
     "criteria": {
       "arcfurnace": "2021-02-07 23:51:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2021-03-21 23:39:30 +0800"
     },
     "done": true
   },
